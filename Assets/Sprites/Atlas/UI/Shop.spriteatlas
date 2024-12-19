@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shop
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 2afb9256f2094e54c905f98ed6269cac, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 939c9a005aefb18459f44a903b4b0fb8, type: 3}
+  - {fileID: 21300000, guid: e0131bd0feacdad469cf883229838e13, type: 3}
+  - {fileID: 21300000, guid: 67748983f2155d44d81e0f8e616396e9, type: 3}
+  - {fileID: 21300000, guid: 35a0fbf49a24ea243b231ba557ecfd8d, type: 3}
+  - {fileID: 21300000, guid: 9d39075704575af49b33ae32e5affd26, type: 3}
+  - {fileID: 21300000, guid: ceb8016709e7df1429b21e01591d64d9, type: 3}
+  - {fileID: 21300000, guid: a19b33a89685ab941a62b05a7efc5ba1, type: 3}
+  - {fileID: 21300000, guid: d7c82e991beef5b43acb318b2d40aadd, type: 3}
+  - {fileID: 21300000, guid: 419d97f9b0798284cad79006c09e2e81, type: 3}
+  - {fileID: 21300000, guid: 0a998b6ac3fc7524283ce63439b2ce2d, type: 3}
+  - {fileID: 21300000, guid: ba82813bd1a563b4ab49ea89fc7fcf64, type: 3}
+  - {fileID: 21300000, guid: 84dd547bc4033324680bd796dee23b03, type: 3}
+  - {fileID: 21300000, guid: 9c292e7bf45380e4d9a3e3cd60b7553f, type: 3}
+  - {fileID: 21300000, guid: d2fbf36c08ec21f4f895bbee0f546ce2, type: 3}
+  - {fileID: 21300000, guid: c3fcf76c30b38c34fbd1994e12306bf8, type: 3}
+  - {fileID: 21300000, guid: 1a794f1d0ca9c02428d80c4d5cf4bf5f, type: 3}
+  - {fileID: 21300000, guid: c50fe5de06c2c684289199c4c3ab7ace, type: 3}
+  - {fileID: 21300000, guid: a7002eff7b5eb6346bde86818e20e2ff, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - base-small-bg
+  - scrollMask
+  - discount
+  - all-basic-characters
+  - mask-big-out
+  - border-big
+  - restore
+  - Base
+  - base-big
+  - mask-big
+  - price-big-bought
+  - coins
+  - price-big
+  - base-small-suport
+  - scrollMask - Horizontal
+  - Mask
+  - border-big-bottom
+  - Border
+  m_RenderDataMap: {}
+  m_Tag: Shop
+  m_IsVariant: 0

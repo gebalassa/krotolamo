@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Avatar
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: f7cd21cc5027b49fbbcc768bc4702203, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f73c4f30c4bef2a4d910d7ec31bf5b69, type: 3}
+  - {fileID: 21300000, guid: 5dc9fa606640a23498db9caa0730f02a, type: 3}
+  - {fileID: 21300000, guid: 1e1464920d4d36d4d8dbc2cd4865aa0b, type: 3}
+  - {fileID: 21300000, guid: f60645b3074d7254dbde390ea79dcf2f, type: 3}
+  - {fileID: 21300000, guid: 23b45e14d9afd9748aad3dbe2ac88c6c, type: 3}
+  - {fileID: 21300000, guid: 3a739494dfe229b47b1879c58f5229be, type: 3}
+  - {fileID: 21300000, guid: 5abe1ac7b59722540a58200c57b4af83, type: 3}
+  - {fileID: 21300000, guid: a02a34d7d0ade4c069b03df4a53f679d, type: 3}
+  - {fileID: 21300000, guid: 2c62dc49845bc8b48be0830a384d3ce2, type: 3}
+  - {fileID: 21300000, guid: faea6a594b667914783338018c292dd2, type: 3}
+  - {fileID: 21300000, guid: 53b15e99af7bb1f4aaf02742d66c1553, type: 3}
+  - {fileID: 21300000, guid: 39dedeb91c76aa441b5bcf60b865fe0c, type: 3}
+  - {fileID: 21300000, guid: 61213e8abc89d0044aeaf923b873c0a6, type: 3}
+  - {fileID: 21300000, guid: 1733eedbeb240834eb040f5a21c8fa03, type: 3}
+  - {fileID: 21300000, guid: 4c34613ca5afac0478b820c6009e6436, type: 3}
+  - {fileID: 21300000, guid: a318ae6ea2f664e8a9a5ba6cce91282e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - aarini
+  - joaquin
+  - arataka
+  - choriza
+  - duo
+  - sakura
+  - jade
+  - boy_lee
+  - misae
+  - barry
+  - matsuoSakamoto
+  - gastonMiauffin
+  - juanita
+  - ryusei
+  - oriax
+  - boy_mask
+  m_RenderDataMap: {}
+  m_Tag: Avatar
+  m_IsVariant: 0

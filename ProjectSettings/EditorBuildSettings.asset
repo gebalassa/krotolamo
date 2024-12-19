@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/InitScene.unity
+    guid: 46b327ae7e0eb5548a7d2732cc14f583
+  - enabled: 0
+    path: Assets/Scenes/Others/Shop/JanKenShop.unity
+    guid: 67b08231dcb41da4f9b9bd8d11f138a4
+  - enabled: 1
+    path: Assets/Scenes/MainScreen.unity
+    guid: 1f36e9c974c486d49bf0fe8c4067e4c8
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/SingleMode/SingleModeSelection.unity
+    guid: c03cf37c19081694fbcd94c7e697681d
+  - enabled: 0
+    path: Assets/Scenes/SingleMode/SingleModeSelectionType.unity
+    guid: a0351606c69f109438a174f45283bd49
+  - enabled: 1
+    path: Assets/Scenes/SingleMode/GameModeSelection.unity
+    guid: 23b110b2f06a1cd4dab07bd8ad3f3a37
+  - enabled: 1
+    path: Assets/Scenes/SingleMode/Classic/SingleMode.unity
+    guid: e90eea8a6f4124b6b92c1c3d03bc45bb
+  - enabled: 1
+    path: Assets/Scenes/SingleMode/Classic/SingleModeRoundComplete.unity
+    guid: 13812c1a725922c4ebff02678cec59b2
+  - enabled: 1
+    path: Assets/Scenes/SingleMode/Classic/SingleModeResults.unity
+    guid: 2065f9b2d009542818124a966b7df01d
+  - enabled: 1
+    path: Assets/Scenes/SingleMode/Survival/SurvivalMode.unity
+    guid: e703a9106a576874c9eabce45072cf3b
+  - enabled: 1
+    path: Assets/Scenes/SingleMode/Survival/SurvivalModeResults.unity
+    guid: 9b8c97bd670005c42915a8ff6b01a079
+  - enabled: 0
+    path: Assets/Scenes/OnlineMode/OnlineModeSelection.unity
+    guid: 0c59ae67ab85942399e6ba16f3ef5f2e
+  - enabled: 0
+    path: Assets/Scenes/OnlineMode/OnlineModeSelectionType.unity
+    guid: d651d483192484fcbaf1a81bde2859ad
+  - enabled: 0
+    path: Assets/Scenes/OnlineMode/PrivateOnlineModeQuestion.unity
+    guid: a3da514d0b5544171bf9a94cd5b523e1
+  - enabled: 0
+    path: Assets/Scenes/OnlineMode/PrivateOnlineMode.unity
+    guid: da933cd916b33481b8b672c6f4d2e879
+  - enabled: 1
+    path: Assets/Scenes/Others/UnlockedCharacter.unity
+    guid: 88f9d3049ce074b4b95b052e22ac8d37
+  - enabled: 1
+    path: Assets/Scenes/Others/UnlockedDeluxeCharacter.unity
+    guid: 911e743cc80657946a0c55fab5500a86
+  - enabled: 1
+    path: Assets/Scenes/Others/Options.unity
+    guid: b8b3ce6b93bd59944a97db7940abc19f
+  - enabled: 1
+    path: Assets/Scenes/Others/Credits.unity
+    guid: dd07cdc4f71265b47b936a85eae02c53
+  - enabled: 1
+    path: Assets/Scenes/DuelMode/DuelMode.unity
+    guid: 97f83af9bf1aaa34988dba393eda2e12
+  - enabled: 1
+    path: Assets/Scenes/DuelMode/DuelModeResults.unity
+    guid: 93dfb1a11ef67444ba3ba35878c5bec5
+  - enabled: 1
+    path: Assets/Scenes/DuelMode/DuelModeSelection.unity
+    guid: c9decaaba68557347a48f5d2bd9f45e9
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: b739e225ceec56b4d8fc02f2212fc52a,
+      type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 60c53c0b8a5c3254286d23169c2118e2,
+      type: 2}

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: Joystick
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 2daf1d2b0ad283346a2fba011ddfa16b, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 9a24f0ce802701e448353f94e27d7afa, type: 2}
+  - {fileID: 11400000, guid: 78cc18e33e5b3e349950800b98cb5a57, type: 2}
+  - {fileID: 11400000, guid: e8c66c97c3ae6de409f1d5214feabdee, type: 2}
+  - {fileID: 11400000, guid: a15165c6c1323a2429d4b782a2d4f353, type: 2}
+  - {fileID: 11400000, guid: ebd61817c37a1c04eaed524c9ee1c95e, type: 2}
+  - {fileID: 11400000, guid: 6b6cc7e721332ae4e9c6922dfa6f3944, type: 2}
+  - {fileID: 11400000, guid: 1655afe94553e464697f1c6a681a7a93, type: 2}
+  - {fileID: 11400000, guid: 2887e983cb089144c90ed9ad9274fde3, type: 2}
+  - {fileID: 11400000, guid: ffd3a338e9b9cb94ea9315f6316f1100, type: 2}
+  - {fileID: 11400000, guid: 0885a57159a5a0d4790bc0390295ad6d, type: 2}
+  - {fileID: 11400000, guid: 8737fa304ebde3344bd93fe97332033e, type: 2}
+  - {fileID: 11400000, guid: 75d3db32f3b8bd144bdbc253cbc8f8b2, type: 2}
+  - {fileID: 11400000, guid: 7ce1a50b29d8cca418ff673912802c8d, type: 2}
+  - {fileID: 11400000, guid: 4b777540ee8540144b4918ae2aa7b70c, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

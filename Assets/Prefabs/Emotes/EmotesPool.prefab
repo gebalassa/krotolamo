@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6711024810574042869
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4473962926435346408}
+  - component: {fileID: 1716886502221208028}
+  m_Layer: 0
+  m_Name: EmotesPool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4473962926435346408
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6711024810574042869}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 40, y: 32, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1716886502221208028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6711024810574042869}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cdffc2310d977b49981b29ae06c847f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  emotes:
+  - {fileID: 5759700113472492789, guid: 05f0c1bd890423a45b1cbea2c9eb16e4, type: 3}
+  - {fileID: 5759700113472492789, guid: 918382e53545d10448f966618eea9a5a, type: 3}
+  - {fileID: 5759700113472492789, guid: afa30971d75933a439d133243ed92c86, type: 3}
+  - {fileID: 5759700113472492789, guid: 85b1d05f2d919af42a0613433a4dc01f, type: 3}
+  - {fileID: 5759700113472492789, guid: b5dc07bf06ed85e4d92623df5fd3d203, type: 3}
+  - {fileID: 5759700113472492789, guid: eef026272c040ea49b6b3a3e36375d01, type: 3}
+  - {fileID: 5759700113472492789, guid: ff95f9a393ab3824f80eb18c461dfbcd, type: 3}
+  - {fileID: 5759700113472492789, guid: 253e6caf208973f4ebfd0299caac32bb, type: 3}
+  - {fileID: 5759700113472492789, guid: 0dd667749045cdf42a03a649304408ae, type: 3}
+  - {fileID: 5759700113472492789, guid: b2d45f322ae88214e83e140178dad783, type: 3}
+  - {fileID: 5759700113472492789, guid: 501291401bc1cef4b947f24085bc88c9, type: 3}
+  - {fileID: 5759700113472492789, guid: df70677b0b292ee4bb8fd2165579356b, type: 3}

@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Duo
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 77058264a267c94448f2073b06d3b69a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d4912d7110432d140a5b6552c36a7543, type: 3}
+  - {fileID: 21300000, guid: b71795d14271ce84b9b87005c0cc70ab, type: 3}
+  - {fileID: 21300000, guid: 429ca1d2fe096ec499fdf702a835a626, type: 3}
+  - {fileID: 21300000, guid: e982f8f2fefe4dc429a2e3f3f83c6d47, type: 3}
+  - {fileID: 21300000, guid: a681da43aad700d40b7758f26abc191a, type: 3}
+  - {fileID: 21300000, guid: 45fb446349f16fe4dabdff3a05a1fcb1, type: 3}
+  - {fileID: 21300000, guid: 498d47f42abf07a469e665f0de5d7071, type: 3}
+  - {fileID: 21300000, guid: a7995845ea2812e48ad3c906b6f484d7, type: 3}
+  - {fileID: 21300000, guid: 2ef7f4e5ecde1c0488f84e8c511221b2, type: 3}
+  - {fileID: 21300000, guid: b016b5f63240af946a32b00dcf951b01, type: 3}
+  - {fileID: 21300000, guid: 8a297227ac4d6b142b17ea825a76e6a3, type: 3}
+  - {fileID: 21300000, guid: d5765247251421441900ff650ae00921, type: 3}
+  - {fileID: 21300000, guid: 962441a76a384124a802608231c33929, type: 3}
+  - {fileID: 21300000, guid: 361e8ac80b4dacc429533e6adcf8b0e1, type: 3}
+  - {fileID: 21300000, guid: da3aea9964bbdeb47ab2d32ff77c3f45, type: 3}
+  - {fileID: 21300000, guid: 0f27eaabfb6e06142be16dbe804342e1, type: 3}
+  - {fileID: 21300000, guid: 9faab77c40429e94ba6f17b1dc073a90, type: 3}
+  - {fileID: 21300000, guid: 1ea54aae238e9064eae96315972666d6, type: 3}
+  - {fileID: 21300000, guid: 914e3f3f5a5dc354aa02217f47a0e670, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - DuoLose_002
+  - DuoLose_001
+  - DuoAttack_006
+  - DuoLose_003
+  - DuoAttack_003
+  - DuoAttack_004
+  - DuoAttack_005
+  - DuoStand_004
+  - DuoStand_001
+  - DuoCelebrate_001
+  - DuoAttack_001
+  - DuoCelebrate_003
+  - DuoLose_004
+  - DuoStand_002
+  - DuoAttack_002
+  - DuoStand_003
+  - DuoCelebrate_002
+  - DuoCelebrate_004
+  - DuoAttack_004
+  m_RenderDataMap: {}
+  m_Tag: Duo
+  m_IsVariant: 0

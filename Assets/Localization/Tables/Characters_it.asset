@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Characters_it
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: 272ec3c66e3df6d4a9431d7b652dc151, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 342549012480
+    m_Localized: "Nato con un talento naturale per suonare sasso, carta o forbici.
+      \xC8 una delle promesse del suo paese, quindi far\xE0 del suo meglio per essere
+      la migliore al mondo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 356562182144
+    m_Localized: Studentessa delle superiori amante degli anime. Suo padre era un
+      fan di "Janken Man" e ha trasmesso quel fanatismo a sua figlia.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 415743811584
+    m_Localized: Fu monaco per la maggior parte della sua vita. Oggi vive una vita
+      tranquilla coltivando il suo giardino e insegnando le sue tecniche segrete
+      nella sua scuola di sasso-carta-forbici.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 417723523072
+    m_Localized: Quando non lavora nel suo negozio di verdura, esce con i suoi amici
+      per giocare ai giochi dell'infanzia. Il "cachipun" e lo "pepito paga doble"
+      sono i suoi giochi preferiti.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18446753792
+    m_Localized: "DJ di diverse Roller disco e campione giovanile della torre \"Janken\".
+      Ha passato anni senza giocare ma il suo talento non \xE8 andato perduto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80874774528
+    m_Localized: Chef esperto nel preparare pasti veloci e deliziosi. Dopo ogni duello,
+      condividi uno dei suoi famosi dessert con il suo avversario per risollevare
+      il morale.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232016519168
+    m_Localized: "Il suo vero nome \xE8 Benito. Ha iniziato la sua formazione nella
+      sua citt\xE0 natale, Worse is Nothing, all'et\xE0 di 5 anni guardando i film
+      di Bruce Lee."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 241181073408
+    m_Localized: "Nessuno sa come sia arrivato alla torre o quale sia il suo vero
+      volto, ma si \xE8 guadagnato una posizione all'interno della torre. Alcuni
+      credono che sia un demone"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 501781569536
+    m_Localized: "Si \xE8 allenato fin da bambino per essere un arbitro di torre.
+      Pensa, mangia e vivi sasso, carta o forbici. Tutti gli arbitri vengono operati
+      per avere lo stesso aspetto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 515425640448
+    m_Localized: "Giocatore di poker in linea. Non \xE8 molto buono, ma compensa
+      sempre ci\xF2 che \xE8 stato perso. Ora cerca nuove opportunit\xE0 in diversi
+      giochi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 520723046400
+    m_Localized: "Ha un amore assoluto per le moto e la velocit\xE0. Ha viaggiato
+      per il suo paese alla ricerca di sfide per soddisfare il suo bisogno di adrenalina."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 297208586240
+    m_Localized: "Piantagrane, \xE8 venuto alla torre perch\xE9 qualcuno lo ha sfidato
+      e lo ha chiamato \"Pollo\". Evita di parlare del suo passato e del perch\xE9
+      del suo braccio meccanico... deve avere qualcosa a che fare con la cosa del
+      \"Pollo\"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45680266991312896
+    m_Localized: Amici da quando sono stati abbandonati in un vicolo. L'astuzia di
+      Gaston e la forza di Miuffin li hanno condotti in molte avventure.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45682151685038080
+    m_Localized: Instagram
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45682087252140032
+    m_Localized: Disponibile su Steam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45682083800227840
+    m_Localized: Oms?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46353671109419008
+    m_Localized: Personaggi base
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147985382129213440
+    m_Localized: ????????????????????????????????????????????????????????
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

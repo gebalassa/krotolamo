@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Choriza
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 35f56477aa0617946b95846e65c46fb2, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d97eb600ccd56624ebc877410cc6defc, type: 3}
+  - {fileID: 21300000, guid: ac26c8d121c706742ad621916d0adfe7, type: 3}
+  - {fileID: 21300000, guid: 175538c2ae18cf34ab4082d053880b31, type: 3}
+  - {fileID: 21300000, guid: ef842f5372aebbc4181f03ddf5e6310e, type: 3}
+  - {fileID: 21300000, guid: 274b33e30b93c964183ac406d6d9df06, type: 3}
+  - {fileID: 21300000, guid: 82e4354428fe13b4f9833f9027481660, type: 3}
+  - {fileID: 21300000, guid: 5dfe5fc558ee34b45b7c64120b656bf9, type: 3}
+  - {fileID: 21300000, guid: 7994e526945494d48bcec33f76806732, type: 3}
+  - {fileID: 21300000, guid: 8f6b1956291c91a41aef7c8c7cabe20b, type: 3}
+  - {fileID: 21300000, guid: e81ab76651528c44da5e21b2de856c7c, type: 3}
+  - {fileID: 21300000, guid: 3795af86d40cea94ba5ac07abb725a0f, type: 3}
+  - {fileID: 21300000, guid: 9af81f47cd75cfa4389e6b156238ed1c, type: 3}
+  - {fileID: 21300000, guid: 7745922a14c415a43ac68df308609c26, type: 3}
+  - {fileID: 21300000, guid: 4f9e69bb8db602c4391dafd9b45a8ceb, type: 3}
+  - {fileID: 21300000, guid: 02d8ccbb4af1c4f4a8b0ff931164ab80, type: 3}
+  - {fileID: 21300000, guid: 992e684dd3e93fc4880e39a7ab829eba, type: 3}
+  - {fileID: 21300000, guid: a35d33ae1da5ee3469f2ca280e53dd97, type: 3}
+  - {fileID: 21300000, guid: 3a52c99f264740541990064929e4984f, type: 3}
+  - {fileID: 21300000, guid: 69fc51bfe8d3127409abe1daa350b8d9, type: 3}
+  - {fileID: 21300000, guid: 987240cf126933e43b9a1932c0f65466, type: 3}
+  - {fileID: 21300000, guid: bd6c24cff0c13d240b9e52dbc3049ea0, type: 3}
+  - {fileID: 21300000, guid: 2c0008df832b38f4ab593a0b6432c389, type: 3}
+  - {fileID: 21300000, guid: 49b3a1ef27374024cac17df54373f4cb, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - choriza_win_0002_2
+  - choriza_super_0000_Layer-58
+  - choriza_attack_0003_1
+  - choriza_0002_1
+  - choriza_win_0000_4
+  - choriza_0001_2
+  - choriza_lose_0000_4
+  - manzana
+  - choriza_super_0001_Layer-57
+  - choriza_win_0001_3
+  - choriza_super_0000_Layer-59
+  - imaginate
+  - choriza_attack_0000_4
+  - choriza_lose_0001_3
+  - choriza_super_0002_3
+  - choriza_lose_0002_2
+  - choriza_super_0004_1
+  - choriza_lose_0003_1
+  - choriza_attack_0002_2
+  - choriza_win_0003_1
+  - choriza_attack_0001_3
+  - choriza_0000_3
+  - choriza_super_0003_2
+  m_RenderDataMap: {}
+  m_Tag: Choriza
+  m_IsVariant: 0

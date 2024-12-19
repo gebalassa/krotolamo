@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BoyMask-OldWoman
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7fff78f0a062643659d134a70be7c368, type: 3}
+    - {fileID: 102900000, guid: 69bc11539195e4c168de40afc9696224, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: fd001e4049b154b5195b0ade99a3496f, type: 3}
+  - {fileID: 21300000, guid: c0d61b501c44b456998d5bd3c4a4e4dd, type: 3}
+  - {fileID: 21300000, guid: f6ced1900b5cd4514b173ca93ace0588, type: 3}
+  - {fileID: 21300000, guid: 9f4deb21e92bd444f8c7719f2fa9afbb, type: 3}
+  - {fileID: 21300000, guid: eb328961c391a4f42b2039bf57eff422, type: 3}
+  - {fileID: 21300000, guid: 335b6fe1d84cb4d52aac0b3795e72511, type: 3}
+  - {fileID: 21300000, guid: 75673d024a2df428099b2daadd1808dd, type: 3}
+  - {fileID: 21300000, guid: d8e6493212cc44dc8bd6f8f697cfffd0, type: 3}
+  - {fileID: 21300000, guid: 05269242efb934ac88b8665401494aaa, type: 3}
+  - {fileID: 21300000, guid: 371d9072d0a1d4e6bb698269cfe1b0c8, type: 3}
+  - {fileID: 21300000, guid: 4e5d7263d897f4ee8a226d0362f00b6f, type: 3}
+  - {fileID: 21300000, guid: 006a5783193e74f20a1c0539188aac80, type: 3}
+  - {fileID: 21300000, guid: 9c9bbad3738d74e7ca05bba650b009d9, type: 3}
+  - {fileID: 21300000, guid: 77ba55744690ea94db3f3e23d90174ef, type: 3}
+  - {fileID: 21300000, guid: b2c207f49f062454ba526c8ed340b450, type: 3}
+  - {fileID: 21300000, guid: 9653a865a5b2d48f38d475d36ba27b6b, type: 3}
+  - {fileID: 21300000, guid: 0c8a57b5157be4d5385e9f5662c3a095, type: 3}
+  - {fileID: 21300000, guid: d63f03c5257ef4f019c26f74c322b6db, type: 3}
+  - {fileID: 21300000, guid: 61dcfed5c949d49abb8fa063e8359db8, type: 3}
+  - {fileID: 21300000, guid: cef460e55d047a341a7cfb93982b6c49, type: 3}
+  - {fileID: 21300000, guid: cdd6625680173435ebf4891cdc8ba79e, type: 3}
+  - {fileID: 21300000, guid: 40b4329675b4f48b384139656ff8241c, type: 3}
+  - {fileID: 21300000, guid: 9611b407e5ee747e9bc1b922698504ac, type: 3}
+  - {fileID: 21300000, guid: daf8b9b765bd85d4e971c5cb96927231, type: 3}
+  - {fileID: 21300000, guid: 82589bc73614743279c818769fd586d3, type: 3}
+  - {fileID: 21300000, guid: 0b0af4f735dcd4c7784163ea11d9b368, type: 3}
+  - {fileID: 21300000, guid: 3f9ed569149844eb692d0c28900ec060, type: 3}
+  - {fileID: 21300000, guid: 446afb7931d8e41309bda1f265e186f0, type: 3}
+  - {fileID: 21300000, guid: b3d1acc9ff5505949994556f2afd0ad9, type: 3}
+  - {fileID: 21300000, guid: 567aade9538364d6888dd9df8ac26827, type: 3}
+  - {fileID: 21300000, guid: 392a332a25de1414682055e9e59e0c24, type: 3}
+  - {fileID: 21300000, guid: 356f7e5a1cf634ae8b36d67e40fa6db1, type: 3}
+  - {fileID: 21300000, guid: 90b6069bbac3c3045a819ac1aa645f0b, type: 3}
+  - {fileID: 21300000, guid: 70f5983cd14594041b045a19117e0186, type: 3}
+  - {fileID: 21300000, guid: 31c6c97d3b0144e439989426c7cca8fd, type: 3}
+  - {fileID: 21300000, guid: cc9075cd64dc344edadcb7836e14f6f8, type: 3}
+  - {fileID: 21300000, guid: 86cd272e9592c487ebb2dd88a2cde185, type: 3}
+  - {fileID: 21300000, guid: 92c8cbafbce7c4f449ac251bef7659f8, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - spr_boy_little_0000s_0000_YoungBoyStand_001
+  - spr_boy_little_0002s_0002_YoungBoyCelebrate_003
+  - spr_boy_little_0001s_0000_YoungBoyAttack_001
+  - spr_boy_little_0001s_0002_YoungBoyAttack_003
+  - strips_0000s_0002_OldLadyStand_003
+  - spr_boy_little_0003s_0000_YoungBoyLose_001
+  - strips_0000s_0001_OldLadyStand_002
+  - strips_0003s_0003_OldLadyLose_004
+  - strips_0000s_0000_OldLadyStand_001
+  - strips_0003s_0000_OldLadyLose_001
+  - spr_boy_little_0002s_0003_YoungBoyCelebrate_004
+  - strips_0003s_0002_OldLadyLose_003
+  - strips_0000s_0003_OldLadyStand_004
+  - YoungBoyAttack_0004_Ken
+  - strips_0001s_0000_OldLadyAttack_001
+  - strips_0001s_0003_OldLadyAttack_004
+  - strips_0001s_0002_OldLadyAttack_003
+  - spr_boy_little_0001s_0001_YoungBoyAttack_002
+  - strips_0002s_0003_OldLadyCelebrate_004
+  - OldLadyAttack_0001_Ken
+  - spr_boy_little_0003s_0001_YoungBoyLose_002
+  - spr_boy_little_0000s_0003_YoungBoyStand_004
+  - spr_boy_little_0002s_0001_YoungBoyCelebrate_002
+  - OldLadyAttack_0002_Pon
+  - spr_boy_little_0003s_0002_YoungBoyLose_003
+  - spr_boy_little_0000s_0002_YoungBoyStand_003
+  - spr_boy_little_0000s_0001_YoungBoyStand_002
+  - strips_0002s_0001_OldLadyCelebrate_002
+  - OldLadyAttack_0000_Jan
+  - strips_0002s_0002_OldLadyCelebrate_003
+  - strips_0001s_0001_OldLadyAttack_002
+  - spr_boy_little_0002s_0000_YoungBoyCelebrate_001
+  - YoungBoyAttack_0003_Jan
+  - YoungBoyAttack_0005_Pon
+  - strips_0003s_0001_OldLadyLose_002
+  - strips_0002s_0000_OldLadyCelebrate_001
+  - spr_boy_little_0001s_0003_YoungBoyAttack_004
+  - spr_boy_little_0003s_0003_YoungBoyLose_004
+  m_RenderDataMap: {}
+  m_Tag: BoyMask-OldWoman
+  m_IsVariant: 0

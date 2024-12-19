@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4871919143386973590
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2112797666083001566}
+  - component: {fileID: 5004113244671326527}
+  m_Layer: 0
+  m_Name: Arcades
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2112797666083001566
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4871919143386973590}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -2.05, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5004113244671326527
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4871919143386973590}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e5daeb64eb74824582427c635f0b6ef, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  arcadesSprites:
+  - {fileID: 21300000, guid: 8fcd077ed6bf70a49b66a8e5f4d73bee, type: 3}
+  - {fileID: 21300000, guid: 252c87e516de8704bb87f856afed1444, type: 3}
+  - {fileID: 21300000, guid: 2ee51e50fc52997489813b380592e741, type: 3}
+  - {fileID: 21300000, guid: 28c9b9ba75abb2543974e91ff5b4f810, type: 3}
+  - {fileID: 21300000, guid: f37cab5530d7944498f60c71f880405d, type: 3}
+  - {fileID: 21300000, guid: 8911975cefde2ee4e88fcac23ea06a2f, type: 3}
+  lightsColor:
+  - {r: 0.5058824, g: 0.9254902, b: 0.91764706, a: 1}
+  - {r: 0.8666667, g: 0.37254903, b: 0.7294118, a: 1}
+  arcadePrefab: {fileID: 2103918915818075857, guid: 357a93715111a494aaf0d9c18eb5a4f9,
+    type: 3}
+  lightPrefab: {fileID: 2103918915818075857, guid: e6f1cd35bdabce64287fbee51f9f0724,
+    type: 3}
+  widthPerArcade: 5.38

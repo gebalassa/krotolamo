@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Deluxe_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 14999b99c6868de46a567678f222150a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8376229888
+    m_Localized: Deluxe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76126822400
+    m_Localized: Deluxe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2472999591936
+    m_Localized: You will always have 3 superpowers at the beginning of a game session.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4002645483520
+    m_Localized: You will get the "Deluxe!" achievement.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4711063429120
+    m_Localized: Double coins when you win.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13207251132416
+    m_Localized: Developers will be able to eat.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13716838096896
+    m_Localized: Color change for characters.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17610251116544
+    m_Localized: Take my money
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17833006407680
+    m_Localized: No thanks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140296900481064960
+    m_Localized: All basic characters.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

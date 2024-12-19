@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_id
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: id
+  m_SharedData: {fileID: 11400000, guid: 905f7e36ac39cc147b646afce1aae7a4, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20925587456
+    m_Localized: Kertas membungkus batu...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2111614164992
+    m_Localized: Pilih serangan yang mengalahkan lawanmu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2167947862016
+    m_Localized: Yang terbaik dari tiga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2688570040320
+    m_Localized: Pilih tiga serangan berturut-turut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3060302815232
+    m_Localized: Serang sebelum berubah
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3677498843136
+    m_Localized: Perhatikan bilah pemuatan lawan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3832419655680
+    m_Localized: Tekan lawan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3959758725120
+    m_Localized: Kamu akan dikenakan biaya 6 koin untuk mengetahui serangan itu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4393747554304
+    m_Localized: Percayalah pada hatimu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4570571022336
+    m_Localized: Pilih serangan sebelum waktu habis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1173651244392448
+    m_Localized: Kekuatan super!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1173812616044544
+    m_Localized: Jika kamu memiliki 3 nyawa dan menyelesaikan satu pukulan beruntun
+      (Titik di bawah penampil nyawa), kamu akan mendapatkan satu Kekuatan Super!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Joystick
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 998c8e3bbff5ed7468d02e25c02806ff, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4a9189906e569dd41a0d4e2750d59205, type: 3}
+  - {fileID: 21300000, guid: 621d33c1800b0f7498e0eded7dac8404, type: 3}
+  - {fileID: 21300000, guid: 4a94f8126a178e64cb9632d2907b8466, type: 3}
+  - {fileID: 21300000, guid: 4f51d442cd4a6a241abd45a9c8180fa7, type: 3}
+  - {fileID: 21300000, guid: 8e254a33aebb66e48b336015571c889c, type: 3}
+  - {fileID: 21300000, guid: 3c5afce4b17065545bf93a1c7638dd6a, type: 3}
+  - {fileID: 21300000, guid: e70a788595badae49a8c2c6c3ef8efcb, type: 3}
+  - {fileID: 21300000, guid: b051d306cbbcaab4f95918d7664da2d1, type: 3}
+  - {fileID: 21300000, guid: 2bf035c794fd67146b9f0fd2cfa3f078, type: 3}
+  - {fileID: 21300000, guid: 45c014f79b70ea54c9ae9ee8dac673a5, type: 3}
+  - {fileID: 21300000, guid: ac1884b8e07c7524187c4c7b20c53d50, type: 3}
+  - {fileID: 21300000, guid: 2b390e1a723b0c7439ebde5db13b9ee5, type: 3}
+  - {fileID: 21300000, guid: 64ab8f9a23341c54294d50a49a9f7f97, type: 3}
+  - {fileID: 21300000, guid: 0cf7098c07cc391488fe70c1b9b797c2, type: 3}
+  - {fileID: 21300000, guid: 5698df1dcf0821b49a879840a99127da, type: 3}
+  - {fileID: 21300000, guid: bfffcddddb3472348857475b5cba368e, type: 3}
+  - {fileID: 21300000, guid: 09ebb67ee28405e4a9393b54136bd0d1, type: 3}
+  - {fileID: 21300000, guid: 1de602be3888060428826aaa9b015c66, type: 3}
+  - {fileID: 21300000, guid: fb1802ef27049f14fbc59cb89e1e32b1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Y
+  - Select
+  - Right
+  - X2
+  - circle
+  - triangle
+  - Home
+  - B
+  - Up
+  - Down
+  - Screenshot
+  - BG
+  - Left
+  - RightStick
+  - Start
+  - square
+  - A
+  - X
+  - LeftStick
+  m_RenderDataMap: {}
+  m_Tag: Joystick
+  m_IsVariant: 0

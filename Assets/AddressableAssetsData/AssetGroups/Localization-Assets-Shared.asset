@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0715048c71480204b82746065183f60e
+  m_SerializeEntries:
+  - m_GUID: 905f7e36ac39cc147b646afce1aae7a4
+    m_Address: Tutorial Shared Data
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0de32d1776902be4f905a5d1977fc5f8
+    m_Address: InGame Shared Data
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7833c4782b81d6042916fcbc35eeea9c
+    m_Address: Options Shared Data
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af7a3effd14296c4fa2b7f8f18c0da77
+    m_Address: Online Shared Data
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 513eccc4203e8774daee384e3cbd9d03
+    m_Address: Achievements Shared Data
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14999b99c6868de46a567678f222150a
+    m_Address: Deluxe Shared Data
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efa1a2384ae93f642a5d7fd05d1c2198
+    m_Address: Credits Shared Data
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9b90825c11e0d54ebe6132f9160f83d
+    m_Address: DeluxeCharacters Shared Data
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 272ec3c66e3df6d4a9431d7b652dc151
+    m_Address: Characters Shared Data
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70afc87f3814d484cb1097533c9e8dd8
+    m_Address: Country Shared Data
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa7911a0586c824419d113596a7e117c
+    m_Address: JanKenShop Shared Data
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2daf1d2b0ad283346a2fba011ddfa16b
+    m_Address: Assets/Localization/Tables/Joystick Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: fff6f1cf6472d7840b70a42aa253de08, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: df39fcc8fc18e914c8f9a4da3640f410, type: 2}
+    - {fileID: 11400000, guid: b7e1a26939f148247ab246f4aaf2559d, type: 2}

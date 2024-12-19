@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: InGame
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 3a1a748029ed34bb79b4728c2c841bcd, type: 3}
+    - {fileID: 21300000, guid: 8cd805d8527c4db4eac10ffd1948761b, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5fbf061046d009447b222c64d740e17b, type: 3}
+  - {fileID: 21300000, guid: 86aaec201c6c82c48908327340f002f6, type: 3}
+  - {fileID: 21300000, guid: 6f462140cbce38b43a979eeba6c224c7, type: 3}
+  - {fileID: 21300000, guid: c38afd405a4848c41aa559630448e5dd, type: 3}
+  - {fileID: 21300000, guid: bfca9470e0e59d1488226e9dd3b49aca, type: 3}
+  - {fileID: 21300000, guid: 6ff6291120512f84cabc74fc3ffefea7, type: 3}
+  - {fileID: 21300000, guid: 3f1bc5a1027d73947ad708497529ec0f, type: 3}
+  - {fileID: 21300000, guid: 557402a2006f9734f83ea73257210b63, type: 3}
+  - {fileID: 21300000, guid: 5e3dc61424376f7428ea6942d6361536, type: 3}
+  - {fileID: 21300000, guid: d680fb14527732449b6fd886da92de79, type: 3}
+  - {fileID: 21300000, guid: 0b5afc647993c9148bfaf37815815cd2, type: 3}
+  - {fileID: 21300000, guid: 78bb5eb40f5724c70b5459d9f01ab8fc, type: 3}
+  - {fileID: 21300000, guid: 3ff6bfc4df3372644aef52b87796bff3, type: 3}
+  - {fileID: 21300000, guid: ca974af42e4388d419d6ba26567b20ba, type: 3}
+  - {fileID: 21300000, guid: 5df7614534bdf0f4e9ff7e6a235e1dbc, type: 3}
+  - {fileID: 21300000, guid: 3110db958a035de46aafdbb8c232686e, type: 3}
+  - {fileID: 21300000, guid: dcabae46154500146b6fab9aa72d6703, type: 3}
+  - {fileID: 21300000, guid: 7d8e7066f91d1ab4bb70a224fbd94c2c, type: 3}
+  - {fileID: 21300000, guid: 30b17276baf69344296ae3a5642ccd65, type: 3}
+  - {fileID: 21300000, guid: f1694d07f7f0c7941bcfb58b31c57c58, type: 3}
+  - {fileID: 21300000, guid: 7ba3af479f593448eba1de48b98369bd, type: 3}
+  - {fileID: 21300000, guid: 1d3d9467b617e4a95b310a3f72e480f3, type: 3}
+  - {fileID: 21300000, guid: 75613bd7b34b3284891265d26f4f6228, type: 3}
+  - {fileID: 21300000, guid: c8d03dd71601a504cb880be270b88d83, type: 3}
+  - {fileID: 21300000, guid: 2c2735f74e642854d84c8a314feeb9d5, type: 3}
+  - {fileID: 21300000, guid: ded5d298af2e0884d8f43a94204c6300, type: 3}
+  - {fileID: 21300000, guid: 43a22cc86848d9b4e9110e16aaf614f5, type: 3}
+  - {fileID: 21300000, guid: 8cd805d8527c4db4eac10ffd1948761b, type: 3}
+  - {fileID: 21300000, guid: aec71129380349541982883b70688726, type: 3}
+  - {fileID: 21300000, guid: d4fb03290eb780a4bada5dbb3203b728, type: 3}
+  - {fileID: 21300000, guid: cf41fc59da681964090dab5ac88e2ea9, type: 3}
+  - {fileID: 21300000, guid: efd4de6970f266d468342577df5e303a, type: 3}
+  - {fileID: 21300000, guid: a51b260a32ee1ad44a5edbe557b65aa1, type: 3}
+  - {fileID: 21300000, guid: 239207fa6be885e4f808a4a3eb6c584c, type: 3}
+  - {fileID: 21300000, guid: 81cb565be0458b1458c4dafa7e220330, type: 3}
+  - {fileID: 21300000, guid: 3725877b15a689d41822bd1cbabbca35, type: 3}
+  - {fileID: 21300000, guid: a3acd44c8b34041499e4bfa12f4c613c, type: 3}
+  - {fileID: 21300000, guid: 1fd9195cabfa52f48b89660206876fb6, type: 3}
+  - {fileID: 21300000, guid: 9d5ceabcc58130f4d8a6a95cf3806e48, type: 3}
+  - {fileID: 21300000, guid: 6e6938cc74ba4c84b810c4beeb5ff392, type: 3}
+  - {fileID: 21300000, guid: 7cecbe7dc60d48e46b16c1936b476885, type: 3}
+  - {fileID: 21300000, guid: c018038e612bca949af2648c0efe3a6d, type: 3}
+  - {fileID: 21300000, guid: e37c62aeadbe3b54287118b622046482, type: 3}
+  - {fileID: 21300000, guid: 217085cedfdaae446a95826372959f78, type: 3}
+  - {fileID: 21300000, guid: 78271fde934d98a4aaafb489d029121c, type: 3}
+  - {fileID: 21300000, guid: 594e2bfe098ea5e448415f017abdf9d6, type: 3}
+  - {fileID: 21300000, guid: 8df8158f1fbf723459be567ef963da73, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - streak-dot
+  - jankenup
+  - record
+  - magicwand
+  - rock
+  - change_bar_background
+  - coins
+  - decorative-flags
+  - rock-dialog
+  - retry
+  - speech-baloon-1
+  - down
+  - magicwand-obtained
+  - magicWandMini
+  - equis
+  - illuminati
+  - superJankenMini
+  - empty
+  - CoinsCounter
+  - button-birthday-horn
+  - globo-countdown
+  - none
+  - magicwand-dialog
+  - scissors
+  - bg-name-hearts-player-2
+  - home
+  - timemaster
+  - announcement
+  - heart
+  - change_bar_fill
+  - classic
+  - light
+  - bg-name-hearts-player-1
+  - ribbon-large-blue
+  - ribbon-large-red
+  - timeMasterMini
+  - Container
+  - paper-dialog
+  - paper
+  - pause
+  - scissors-dialog
+  - up
+  - ribbon-medium-red
+  - coins2
+  - select
+  - survival
+  - heart2x
+  m_RenderDataMap: {}
+  m_Tag: InGame
+  m_IsVariant: 0

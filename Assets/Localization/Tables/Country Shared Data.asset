@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Country Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Country
+  m_TableCollectionNameGuidString: 70afc87f3814d484cb1097533c9e8dd8
+  m_Entries:
+  - m_Id: 874919436288
+    m_Key: chile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2437499002880
+    m_Key: china
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2452372004864
+    m_Key: usa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2470021636096
+    m_Key: japan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2499767640064
+    m_Key: brazil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2526791540736
+    m_Key: southkorea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2596609925120
+    m_Key: czechrepublic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2633964396544
+    m_Key: spain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2645620367360
+    m_Key: indonesia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2673093058560
+    m_Key: elyr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2796845998080
+    m_Key: russia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22781957971968
+    m_Key: planetgaia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80499708207104
+    m_Key: unknown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6930164554604544
+    m_Key: menta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42965983270477824
+    m_Key: kallpa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149895525070741504
+    m_Key: argentina
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273449603267559424
+    m_Key: talca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 329023610619772928
+    m_Key: philippines
+    m_Metadata:
+      m_Items: []
+  - m_Id: 357210557854859264
+    m_Key: thunder_city
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 0
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1637709256889

@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: InGame_it
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: 0de32d1776902be4f905a5d1977fc5f8, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 0
+  m_TableData:
+  - m_Id: 29549076480
+    m_Localized: Triplicare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 415202746368
+    m_Localized: Nuovo record
+    m_Metadata:
+      m_Items: []
+  - m_Id: 663945945088
+    m_Localized: Piano
+    m_Metadata:
+      m_Items: []
+  - m_Id: 723685416960
+    m_Localized: Vittorie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 836482834432
+    m_Localized: Sconfitte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 978367750144
+    m_Localized: Pareggi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1037088006144
+    m_Localized: Monete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104553385984
+    m_Localized: Punteggio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1303476641792
+    m_Localized: Continua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1519873368064
+    m_Localized: Uscita
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9452862513152
+    m_Localized: "PI\xD9 FACILE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9512090279936
+    m_Localized: "PI\xD9 DIFFICILE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84700890865664
+    m_Localized: Fiducia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1882401538252800
+    m_Localized: Maestro del tempo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1882756015661056
+    m_Localized: Bacchetta magica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1882887028940800
+    m_Localized: Jan Ken UP!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2626232822996992
+    m_Localized: Un nuovo sfidante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8505521783119872
+    m_Localized: Combo massima
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17816368556744704
+    m_Localized: Classico
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17816917788270592
+    m_Localized: Frenesia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17832314755293184
+    m_Localized: Tempo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18946041059680256
+    m_Localized: JanKenSHOP!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24458267010998272
+    m_Localized: Bravo!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24459607338590208
+    m_Localized: Round {round}
+    m_Metadata:
+      m_Items:
+      - rid: 0
+  - m_Id: 29490515619815424
+    m_Localized: Gratuito fino a {date:dddd dd MMMM yyyy}
+    m_Metadata:
+      m_Items:
+      - rid: 0
+  - m_Id: 390459325441597440
+    m_Localized: Salite su un ascensore infinito e sconfiggete un nemico alla volta.
+      Arrivate in cima e diventate i migliori!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390459352603910144
+    m_Localized: "Scatena la tua rabbia in una serie di duelli implacabili per dimostrare
+      a tutti chi \xE8 il pi\xF9 veloce nel gioco del sasso, carta e forbici."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390780975659835392
+    m_Localized: "Seleziona modalit\xE0 di gioco"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420516216079466496
+    m_Localized: "Combatti con i tuoi amici e decidete chi \xE8 il migliore, chi
+      dovrebbe portare fuori la spazzatura, chi dovrebbe lavare i piatti... O qualsiasi
+      altra cosa tu voglia!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420518409838870528
+    m_Localized: Duello
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420534188789547008
+    m_Localized: Giocatore {player}
+    m_Metadata:
+      m_Items:
+      - rid: 0
+  - m_Id: 421639186600509440
+    m_Localized: Classifica #{rank}
+    m_Metadata:
+      m_Items:
+      - rid: 0
+  - m_Id: 424174850953003008
+    m_Localized: Premi un qualsiasi pulsante per unirti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 426257364240646144
+    m_Localized: Pronto!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 488469551885139968
+    m_Localized: Esci dal gioco
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 0
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0020c31ee2e556000020c3bb77c568000040b5da9d09d6050040b5349bf6d905

@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Options_ko
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ko
+  m_SharedData: {fileID: 11400000, guid: 7833c4782b81d6042916fcbc35eeea9c, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 1682352915297075213
+  m_TableData:
+  - m_Id: 25459630080
+    m_Localized: "\uC74C\uC545"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28299173888
+    m_Localized: "\uC18C\uB9AC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31071608832
+    m_Localized: "\uD1B5\uC81C \uC218\uB2E8"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34750013440
+    m_Localized: "\uC67C\uCABD"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 202232766464
+    m_Localized: "\uC624\uB978\uCABD"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128381312245760
+    m_Localized: "\uC9C4\uB3D9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128581548318720
+    m_Localized: "\uC608"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128749135929344
+    m_Localized: "\uC544\uB2C8\uC694"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166084271611904
+    m_Localized: "\uC5B8\uC5B4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387164152569749504
+    m_Localized: "\uCE90\uB9AD\uD130\uB97C \uC120\uD0DD\uD558\uC138\uC694"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387164446665957376
+    m_Localized: "\uC131\uACA9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387164788623368192
+    m_Localized: "\uD559\uC810"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387164778682867712
+    m_Localized: "\uC124\uC815"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387164764514508800
+    m_Localized: "\uC131\uC801"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387164752472662016
+    m_Localized: "\uC21C\uC704\uD45C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387164740292403200
+    m_Localized: "\uB9AC\uC18C\uC2A4 \uB85C\uB4DC \uC911{Value}"
+    m_Metadata:
+      m_Items:
+      - rid: 1682352915297075213
+  - m_Id: 387164726145015808
+    m_Localized: "\uD50C\uB808\uC774\uD558\uB824\uBA74 \uD0ED\uD558\uC138\uC694...
+      \uD558\uC9C0\uB9CC \uB85C\uACE0\uB294 \uD0ED\uD558\uC9C0 \uB9C8\uC138\uC694!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387164692749967360
+    m_Localized: "\uC7AC\uC0DD\uD558\uB824\uBA74 \uD0ED\uD558\uC138\uC694"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390446536283086848
+    m_Localized: "\uAC11\uC2DC\uB2E4!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390446292015210496
+    m_Localized: "\uB2E4\uC74C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 404201436616146944
+    m_Localized: "\uB09C\uC774\uB3C4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 404235544369119232
+    m_Localized: "\uD29C\uD1A0\uB9AC\uC5BC \uD65C\uC131\uD654"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 404235546881507328
+    m_Localized: "\uD29C\uD1A0\uB9AC\uC5BC \uBE44\uD65C\uC131\uD654"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 405662920135229440
+    m_Localized: "\uCE90\uB9AD\uD130 \uC138\uBD80 \uC815\uBCF4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 406019752171225088
+    m_Localized: "\uC120\uD0DD"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 416154028384534528
+    m_Localized: "\uC2A4\uD0C0\uD2B8 \uBC84\uD2BC\uC744 \uB20C\uB7EC \uD50C\uB808\uC774"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 416154050639511552
+    m_Localized: "\uADF8\uAC74 \uC2A4\uD0C0\uD2B8 \uBC84\uD2BC\uC774 \uC544\uB2C8\uC57C..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 494974826519195648
+    m_Localized: "\uC2EC\uD310"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 1682352915297075213
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0060afae477c5f05

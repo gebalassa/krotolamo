@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Country_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 70afc87f3814d484cb1097533c9e8dd8, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 2437499002880
+    m_Localized: China
+    m_Metadata:
+      m_Items: []
+  - m_Id: 874919436288
+    m_Localized: Chile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2499767640064
+    m_Localized: Brasilien
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2596609925120
+    m_Localized: Tschechische Republik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2470021636096
+    m_Localized: Japan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2796845998080
+    m_Localized: Russland
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2673093058560
+    m_Localized: Elyr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2645620367360
+    m_Localized: Indonesien
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2633964396544
+    m_Localized: Spanien
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2526791540736
+    m_Localized: "S\xFCdkorea"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2452372004864
+    m_Localized: Vereinigte Staaten von Amerika
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22781957971968
+    m_Localized: Planet Gaia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80499708207104
+    m_Localized: Unbekannt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6930164554604544
+    m_Localized: Menta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 42965983270477824
+    m_Localized: Kallpa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149895525070741504
+    m_Localized: Argentinien
+    m_Metadata:
+      m_Items: []
+  - m_Id: 273449603267559424
+    m_Localized: Talca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 329023610619772928
+    m_Localized: Philippinen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 357210557854859264
+    m_Localized: Donnerstadt
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

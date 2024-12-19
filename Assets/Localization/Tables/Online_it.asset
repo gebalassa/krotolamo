@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Online_it
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: it
+  m_SharedData: {fileID: 11400000, guid: af7a3effd14296c4fa2b7f8f18c0da77, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 8007131136
+    m_Localized: Il tuo nome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36415152128
+    m_Localized: Pubblico
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53142036480
+    m_Localized: Privato
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69491433472
+    m_Localized: Connessione in corso...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89187885056
+    m_Localized: Aspettando un avversario
+    m_Metadata:
+      m_Items: []
+  - m_Id: 464980746240
+    m_Localized: '{Players} giocatori online'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1600622108672
+    m_Localized: Knockout
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2911509880832
+    m_Localized: Ospite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2979281444864
+    m_Localized: Codice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3167458893824
+    m_Localized: Unisciti al gioco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3271301472256
+    m_Localized: Aspettando i giocatori
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4846220681216
+    m_Localized: "Il torneo inizier\xE0 presto"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4940152119296
+    m_Localized: Giocatori
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5204753981440
+    m_Localized: Quarti di finale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5314967707648
+    m_Localized: Semifinali
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5656954478592
+    m_Localized: Finale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5698541002752
+    m_Localized: "Il campione \xE8"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97549797236736
+    m_Localized: "La stanza \xE8 piena"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97724561301504
+    m_Localized: Codice non VALIDO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123999191506944
+    m_Localized: Codice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1854987902853120
+    m_Localized: Deathmatch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1891218502131712
+    m_Localized: Siete sicuri di voler uscire?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1891500321611776
+    m_Localized: Classifica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1893857763729408
+    m_Localized: Tipo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1893907088744448
+    m_Localized: Torneo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1894183564681216
+    m_Localized: Turni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1897704942936064
+    m_Localized: Impossibile stabilire la connessione
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6609640041422848
+    m_Localized: "S\xEC"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6609642130186240
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38854845448527872
+    m_Localized: "Stiamo lavorando a una modalit\xE0 online competitiva. Per partecipare
+      alla futura beta ti invitiamo a unirti al nostro Discord."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40030680616476672
+    m_Localized: Combinazione sicura sbagliata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84863360902045696
+    m_Localized: "Visibilit\xE0"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86704934292234240
+    m_Localized: Vite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100488893614465024
+    m_Localized: Tempo / Duello
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101152550589505536
+    m_Localized: "Il server \xE8 stato riavviato"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 102654176756178944
+    m_Localized: finta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127626844462850048
+    m_Localized: Tempo / Round
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127628424318754816
+    m_Localized: Punti
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 002003436c000000

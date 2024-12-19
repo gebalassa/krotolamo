@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_es-AR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es-AR
+  m_SharedData: {fileID: 11400000, guid: 905f7e36ac39cc147b646afce1aae7a4, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20925587456
+    m_Localized: Papel gana a piedra...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2111614164992
+    m_Localized: "Seleccion\xE1 la jugada contraria al rival"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2167947862016
+    m_Localized: Mejor de tres
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2688570040320
+    m_Localized: "Seleccion\xE1 tres ataques consecutivos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3060302815232
+    m_Localized: "Atac\xE1 antes que cambie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3677498843136
+    m_Localized: Atento a la barra de carga del rival
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3832419655680
+    m_Localized: "Presion\xE1 al rival"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3959758725120
+    m_Localized: "Te costar\xE1 6 monedas saber el ataque"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4393747554304
+    m_Localized: "Confi\xE1 en tu coraz\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4570571022336
+    m_Localized: "Elig\xED un ataque antes que se termine el tiempo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1173651244392448
+    m_Localized: "\xA1Superpoder!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1173812616044544
+    m_Localized: "Si ten\xE9s 3 vidas y complet\xE1s una racha (Puntos debajo de
+      las vidas), \xA1Ganar\xE1s un Superpoder!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

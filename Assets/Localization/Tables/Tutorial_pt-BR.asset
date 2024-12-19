@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_pt-BR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: 905f7e36ac39cc147b646afce1aae7a4, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20925587456
+    m_Localized: Papel cobre pedra...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2111614164992
+    m_Localized: Escolha o ataque que vence seu oponente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2167947862016
+    m_Localized: "Melhor de tr\xEAs"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2688570040320
+    m_Localized: "Selecione tr\xEAs ataques consecutivos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3060302815232
+    m_Localized: Ataque antes que mude
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3677498843136
+    m_Localized: "Preste aten\xE7\xE3o na barra de carregamento do oponente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3832419655680
+    m_Localized: Pressione o oponente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3959758725120
+    m_Localized: "Ir\xE1 custar-lhe 6 moedas para conhecer o ataque"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4393747554304
+    m_Localized: "Confie no seu cora\xE7\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4570571022336
+    m_Localized: Escolha um ataque antes que o tempo acabe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1173651244392448
+    m_Localized: "\xA1Super poder!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1173812616044544
+    m_Localized: "Se voc\xEA tiver 3 vidas e completar uma seq\xFC\xEAncia (Pontos
+      sob o visor de vidas), voc\xEA ganhar\xE1 um Super poder!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

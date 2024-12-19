@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Characters_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 272ec3c66e3df6d4a9431d7b652dc151, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 18446753792
+    m_Localized: DJ of different Roller disco and youth champion of the Janken tower.
+      He has gone years without playing but his talent has not been lost.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80874774528
+    m_Localized: Expert chef in making fast and delicious meals. After each duel,
+      she shares some of her famous desserts with her opponent to enhance their spirits.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232016519168
+    m_Localized: His real name is Benito. He began training in his hometown "Peor
+      es Nada" at the age of 5 watching Bruce Lee movies.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 241181073408
+    m_Localized: No one knows how he got to the tower or what his true face is, but
+      he has earned a position inside the tower. Some believe that he is a demon.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342549012480
+    m_Localized: Born with a natural talent for playing rock, paper, or scissors.
+      She is one of the promises of her country, so she will do everything possible
+      to be the best in the world.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 356562182144
+    m_Localized: High school student who loves anime. Her father was a fan of "Janken
+      Man" and passed that fanaticism to his daughter.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 415743811584
+    m_Localized: He was a monk for most of his life. Today he lives a quiet life
+      gardening and teaching his secret techniques in his rock-paper-scissors school.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 417723523072
+    m_Localized: When she is not working in her vegetable store, she hangs out with
+      her friends to play childhood games. The "cachipun" and the "pepito paga doble"
+      are her favorite games.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 501781569536
+    m_Localized: He has trained since he was a child to be a tower referee. He thinks,
+      eats and lives rock, paper or scissors. All referees are operated on to look
+      the same.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 515425640448
+    m_Localized: Online poker player. He is not very good, but he always gets back
+      the money that he loses. Now he is looking for new opportunities in different
+      games.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 520723046400
+    m_Localized: She has an absolute love for motorcycles and speed. She has traveled
+      her country in search of challenges to satisfy her need for adrenaline.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 297208586240
+    m_Localized: Troublemaker, he came to the tower because someone challenged him
+      and called him chicken. He avoids talking about his past and the why of his
+      mechanical arm ... he must have something to do with the chicken thing.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45680266991312896
+    m_Localized: Friends since they were abandoned in an alley. Gaston's cunning
+      and Miauffin's strength have led them on many adventures.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45682151685038080
+    m_Localized: Instagram
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45682087252140032
+    m_Localized: Available on Steam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45682083800227840
+    m_Localized: Who?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46353671109419008
+    m_Localized: Basic characters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147985382129213440
+    m_Localized: ????????????????????????????????????????????????????????
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

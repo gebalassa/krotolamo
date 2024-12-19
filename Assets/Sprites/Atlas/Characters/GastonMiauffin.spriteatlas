@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GastonMiauffin
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: fed6f52df81bb9b4da7781feb407ef8f, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 8287873616420496286, guid: 3382cf102bddad346bde0972af996ed8, type: 3}
+  - {fileID: 7911139459876737251, guid: 3382cf102bddad346bde0972af996ed8, type: 3}
+  - {fileID: -1115256706364395465, guid: 3382cf102bddad346bde0972af996ed8, type: 3}
+  - {fileID: 21300000, guid: 18aaa630ed0a0d44e8a2daca3d02dd88, type: 3}
+  - {fileID: 21300000, guid: 1e3e8e801fc960945867d2e56b743eea, type: 3}
+  - {fileID: 21300000, guid: 5bfb73117909e8d48a0535f4a61d400e, type: 3}
+  - {fileID: 21300000, guid: 335f5f410d21c594daabc07bf6d79e46, type: 3}
+  - {fileID: 21300000, guid: 9f1a57618c81cdd4fbdeefd57d174f0e, type: 3}
+  - {fileID: 21300000, guid: aa7c3d71f0e525b4cbaeda1225a2a519, type: 3}
+  - {fileID: 21300000, guid: 0450af7111cb55c4e8d563a3327f47e3, type: 3}
+  - {fileID: 21300000, guid: 6b4618b134cb4e842ac01e9728b57d3e, type: 3}
+  - {fileID: 21300000, guid: 238f44520463e304a8086bbaa79ed852, type: 3}
+  - {fileID: 21300000, guid: c544cf8255b9bdc40a47e4d858d1279d, type: 3}
+  - {fileID: 21300000, guid: 9ddc6583b3714ad4ebc571f49ba9ea18, type: 3}
+  - {fileID: 21300000, guid: 81b786443e922c842970843bb660e094, type: 3}
+  - {fileID: 21300000, guid: 6d829ac56a81e2c4da563457e1147e02, type: 3}
+  - {fileID: 21300000, guid: 928d6516d71247147bf601af9728878a, type: 3}
+  - {fileID: 21300000, guid: bc489d967682fdd418fe8f68371f55ba, type: 3}
+  - {fileID: 21300000, guid: 21de5ea67c64d6e45bc3be2159de4b01, type: 3}
+  - {fileID: 21300000, guid: 430213f600e09c34b99290a8423fa378, type: 3}
+  - {fileID: 21300000, guid: db85ad17a51178449a24c88cf9220a8b, type: 3}
+  - {fileID: 21300000, guid: 1f5b746780daaf44ebc6053dbfe97090, type: 3}
+  - {fileID: 21300000, guid: c4f5dca77e24fba47acb2e46d7861d28, type: 3}
+  - {fileID: 21300000, guid: e88027b731ec48847bae89815416611e, type: 3}
+  - {fileID: 21300000, guid: 911987d7ea75e644b9d9b7685231e873, type: 3}
+  - {fileID: 21300000, guid: 3a84d7f7c0a9eea4bb91b9af67e0c024, type: 3}
+  - {fileID: 21300000, guid: 540586484f905794d98efdcbf35e3eb5, type: 3}
+  - {fileID: 21300000, guid: 4c113868adc28a747836038a81606725, type: 3}
+  - {fileID: 21300000, guid: 92a7368813aa50f47afc722659039b57, type: 3}
+  - {fileID: 21300000, guid: 60ccd1e87e3b619459b39f5b66ecc4ad, type: 3}
+  - {fileID: 21300000, guid: ee5e6a39d2e3d874fbfa3e2af5493dc1, type: 3}
+  - {fileID: 21300000, guid: a3d783590ae6c654091e0d1a4eb7b8a1, type: 3}
+  - {fileID: 21300000, guid: 1d59b6599a0bbf942bf74658d2c38f5c, type: 3}
+  - {fileID: 21300000, guid: 0813f669227d6144cad5e38d57474821, type: 3}
+  - {fileID: 21300000, guid: 06082e1a37438b34593b52e145493e92, type: 3}
+  - {fileID: 21300000, guid: c912d58a3e796a745b809932552ad459, type: 3}
+  - {fileID: 21300000, guid: 1dbf7c8a875442848a2d321d7c677e29, type: 3}
+  - {fileID: 21300000, guid: 8b73d2fa4c1c65a4abcc80be840f7dc8, type: 3}
+  - {fileID: 21300000, guid: 2eb520cb9a3ed0d4991fe3920c957e4b, type: 3}
+  - {fileID: 21300000, guid: ac54184c47ec17d4e8e966d0824cfccc, type: 3}
+  - {fileID: 21300000, guid: 5638d1bc1b6ebb046bba5884c0f3f145, type: 3}
+  - {fileID: 21300000, guid: 2f4de5bcf7b244a448710a36acbf956f, type: 3}
+  - {fileID: 21300000, guid: 16d10b0dbda672d4ea606f09362e1159, type: 3}
+  - {fileID: 21300000, guid: 377a6d2d91c813741967ef8f6100ffba, type: 3}
+  - {fileID: 21300000, guid: 176dd57dfc433a74d91c36bb3c092fe4, type: 3}
+  - {fileID: 21300000, guid: e5a8158d6624f1a4bbcd3f994923b810, type: 3}
+  - {fileID: 21300000, guid: 8655949dc5f543441b99377e4d68e919, type: 3}
+  - {fileID: 21300000, guid: 74d33f9d02e4bd54b9e3daabf02ab22c, type: 3}
+  - {fileID: 21300000, guid: 74a3c3ad9ca824944abe19da413ff874, type: 3}
+  - {fileID: 21300000, guid: 6ec6cbfde3c174e4e93adf073966a6a2, type: 3}
+  - {fileID: 21300000, guid: 5b51b32eb63703b45888dc7874c6e84d, type: 3}
+  - {fileID: 21300000, guid: 7b61114e5974ba347a5e437301f7210b, type: 3}
+  - {fileID: 21300000, guid: 4d1b6cae79dfd9e429dfd8216b0c9a74, type: 3}
+  - {fileID: 21300000, guid: 43344d1f01c841a4797a99200a212550, type: 3}
+  - {fileID: 21300000, guid: 2e3dc5afbdb19ed4c88488092907c417, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - clouds_0
+  - clouds_1
+  - clouds_2
+  - Super_0000s_0000_Gato-1
+  - Lose_0000s_0002_Gato-3
+  - Layer 3
+  - super_inter_2
+  - Lose_0000s_0004_Gato-5
+  - attack_0000s_0012_Scissors-gaston
+  - attack_0000s_0002_Paper-Gaston-1
+  - attack_0000s_0008_Scissors
+  - Layer 4
+  - attack_0000s_0009_Rock
+  - attack_0000s_0005_Gato-3
+  - Stamd_0001_Gato-2
+  - attack_0000s_0011_Paper-gaston
+  - attack_0000s_0007_Rock-gaston
+  - Win_0000s_0002_Gato-3
+  - attack_0000s_0003_Scissors-Gaston-2
+  - Win_0000s_0001_Gato-2
+  - attack_0000s_0006_Base4
+  - Stamd_0000_Gato-1
+  - Win_0000s_0006_Gato-7
+  - star
+  - win_wool__0001_Layer-3
+  - Super_0000s_0002_Gato-5
+  - super_inter_1-1
+  - Win_0000s_0000_Gato-1
+  - Lose_0000s_0005_Layer-1
+  - Lose_0000s_0007_Layer-2
+  - Lose_0000s_0006_Gato-6
+  - Lose_0000s_0003_Gato-4
+  - Stamd_0002_Gato-3
+  - super_inter_1
+  - Lose_0000s_0000_Gato-1
+  - win_wool__0002_Layer-2
+  - attack_0000s_0000_Gato-1
+  - Stamd_0004_Gato-5
+  - attack_0000s_0001_Rock-gaston-1
+  - Lose_0000s_0001_Gato-2
+  - Win_0000s_0004_Gato-5
+  - win_wool__0003_Layer-1
+  - Win_0000s_0005_Gato-6
+  - attack_0000s_0004_Gato-2-Jan
+  - Super_0000s_0002_Gato-4
+  - Layer 2
+  - super_inter_2-2
+  - win_wool__0000_Layer-4
+  - Super_0000s_0002_Gato-3
+  - attack_0000s_0010_Paper
+  - Super_0000s_0002_Gato-6
+  - Stamd_0003_Gato-4
+  - super_inter_1-2
+  - Lose_0000s_0008_Gato-7
+  - Win_0000s_0003_Gato-4
+  m_RenderDataMap: {}
+  m_Tag: GastonMiauffin
+  m_IsVariant: 0

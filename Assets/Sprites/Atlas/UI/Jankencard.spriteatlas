@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Jankencard
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: f28c1fafe7d2a8842a035eca9b98cd9b, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: e38c07945881afe4499d7eb6debcaf28, type: 3}
+  - {fileID: 21300000, guid: b9fea4f437ce75f40b0fa801d2be42f4, type: 3}
+  - {fileID: 21300000, guid: b10dd926f89ef3a4eb26f7a586feda5d, type: 3}
+  - {fileID: 21300000, guid: f33aea2be788edf45b4fa1cc42a56d2f, type: 3}
+  - {fileID: 21300000, guid: 2bec915b224df0440b8f37377d7eca4c, type: 3}
+  - {fileID: 21300000, guid: 26c51dac70fe14c41b163249ffe06f15, type: 3}
+  - {fileID: 21300000, guid: b12ec95fcddaffe409a02aed82a5fdb5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - card-mask-white
+  - scissors
+  - rock
+  - background
+  - ql-support
+  - backgroundPortrait
+  - paper
+  m_RenderDataMap: {}
+  m_Tag: Jankencard
+  m_IsVariant: 0

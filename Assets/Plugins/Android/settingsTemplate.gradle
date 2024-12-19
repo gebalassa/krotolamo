@@ -1,0 +1,34 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    include ':launcher', ':unityLibrary'
+    include ':unityLibrary:mobilenotifications.androidlib'
+    include ':unityLibrary:GooglePlayGamesManifest.androidlib'
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        def unityProjectPath = "D:/Documents/Games/JankenUp/jankenup - base/" // $/file:///**DIR_UNITYPROJECT**/$.replace("\\", "/")
+        maven {
+            url (unityProjectPath + "/Assets/GeneratedLocalRepo/GooglePlayGames/Editor/m2repository") // Assets/GoogleSignIn/Editor/GoogleSignInSupportDependencies.xml:9
+        }
+        **ARTIFACTORYREPOSITORY**
+        // Copied from mainTemplate.gradle
+        // Android Resolver Repos Start
+        maven {
+            url "https://maven.google.com"
+        }
+        maven {
+            url (unityProjectPath + "/Assets/GeneratedLocalRepo/GooglePlayGames/Editor/m2repository") // Assets/GooglePlayGames/Editor/GooglePlayGamesPluginDependencies.xml:11
+        }
+        // Android Resolver Repos End
+        google()
+        mavenCentral()
+        flatDir {
+            dirs "${project(':unityLibrary').projectDir}/libs"
+        }
+    }
+}

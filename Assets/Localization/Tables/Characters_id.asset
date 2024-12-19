@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Characters_id
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: id
+  m_SharedData: {fileID: 11400000, guid: 272ec3c66e3df6d4a9431d7b652dc151, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 18446753792
+    m_Localized: DJ dari berbagai disko Roller dan juara pemuda menara "Janken".
+      Dia telah bertahun-tahun tidak bermain tetapi bakatnya tidak hilang.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80874774528
+    m_Localized: Koki ahli dalam membuat makanan cepat dan lezat. Setelah setiap
+      duel, dia berbagi beberapa makanan penutupnya yang terkenal dengan lawannya
+      untuk meningkatkan semangat mereka.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232016519168
+    m_Localized: Nama aslinya adalah Benito. Dia mulai berlatih di kampung halamannya
+      "Peor es Nada" pada usia 5 tahun menonton film Bruce Lee.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 241181073408
+    m_Localized: Tidak ada yang tahu bagaimana dia sampai ke menara atau seperti
+      apa wajah aslinya, tetapi dia telah mendapatkan posisi di dalam menara. Beberapa
+      percaya bahwa dia adalah iblis.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342549012480
+    m_Localized: Dia lahir dengan bakat alami untuk bermain batu, kertas, atau gunting.
+      Dia adalah salah satu janji negaranya, jadi dia akan melakukan segala kemungkinan
+      untuk menjadi yang terbaik di dunia.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 356562182144
+    m_Localized: Siswa SMA yang menyukai anime. Ayahnya adalah penggemar "Janken
+      Man" dan mewariskan fanatisme itu kepada putrinya.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 415743811584
+    m_Localized: Dia adalah seorang biarawan untuk sebagian besar hidupnya. Hari
+      ini dia menjalani kehidupan yang tenang dengan berkebun dan mengajarkan teknik
+      rahasianya di sekolah batu-gunting-kertas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 417723523072
+    m_Localized: Ketika dia tidak bekerja di toko sayurnya, dia bergaul dengan teman-temannya
+      untuk bermain game masa kecil. The "cachipun" dan "pepito paga doble" adalah
+      permainan favoritnya.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 501781569536
+    m_Localized: Dia telah dilatih sejak kecil untuk menjadi wasit menara. Dia berpikir,
+      makan dan hidup batu, kertas atau gunting. Semua wasit dioperasi agar terlihat
+      sama.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 515425640448
+    m_Localized: Pemain poker online. Dia tidak terlalu baik, tetapi dia selalu mendapatkan
+      kembali uang yang dia hilangkan. Sekarang dia mencari peluang baru dalam permainan
+      yang berbeda.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 520723046400
+    m_Localized: Dia memiliki cinta mutlak untuk sepeda motor dan kecepatan. Dia
+      telah melakukan perjalanan negaranya untuk mencari tantangan untuk memenuhi
+      kebutuhannya akan adrenalin.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 297208586240
+    m_Localized: Pengacau, dia datang ke menara karena seseorang menantangnya dan
+      memanggilnya ayam. Dia menghindari berbicara tentang masa lalunya dan mengapa
+      lengan mekaniknya ... dia pasti ada hubungannya dengan ayam.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45680266991312896
+    m_Localized: Teman sejak mereka ditinggalkan di gang. Kecerdikan Gaston dan kekuatan
+      Miauffin telah membawa mereka ke banyak petualangan.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45682151685038080
+    m_Localized: Instagram
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45682087252140032
+    m_Localized: Tersedia di Steam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45682083800227840
+    m_Localized: Siapa?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46353671109419008
+    m_Localized: Karakter dasar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147985382129213440
+    m_Localized: ????????????????????????????????????????????????????????
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

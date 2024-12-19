@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: InGame_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 0de32d1776902be4f905a5d1977fc5f8, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 0
+  m_TableData:
+  - m_Id: 29549076480
+    m_Localized: Verdreifachen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 415202746368
+    m_Localized: Neuer Eintrag
+    m_Metadata:
+      m_Items: []
+  - m_Id: 663945945088
+    m_Localized: Etage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 723685416960
+    m_Localized: Siege
+    m_Metadata:
+      m_Items: []
+  - m_Id: 836482834432
+    m_Localized: Niederlagen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 978367750144
+    m_Localized: Bande
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1037088006144
+    m_Localized: "M\xFCnzen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104553385984
+    m_Localized: Ergebnis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1303476641792
+    m_Localized: Fortsetzen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1519873368064
+    m_Localized: Ausgang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9452862513152
+    m_Localized: EINFACHER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9512090279936
+    m_Localized: SCHWERER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84700890865664
+    m_Localized: Vertrauen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1882401538252800
+    m_Localized: Zeitmeister
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1882756015661056
+    m_Localized: Zauberstab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1882887028940800
+    m_Localized: Jan Ken UP!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2626232822996992
+    m_Localized: Ein neuer Herausforderer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8505521783119872
+    m_Localized: Maximale Kombination
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17816368556744704
+    m_Localized: Klassisch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17816917788270592
+    m_Localized: Raserei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17832314755293184
+    m_Localized: Zeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18946041059680256
+    m_Localized: JanKenSHOP!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24458267010998272
+    m_Localized: Bravo!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24459607338590208
+    m_Localized: Runde {round}
+    m_Metadata:
+      m_Items:
+      - rid: 0
+  - m_Id: 29490515619815424
+    m_Localized: Kostenlos bis {date:dddd dd MMMM yyyy}
+    m_Metadata:
+      m_Items:
+      - rid: 0
+  - m_Id: 390459325441597440
+    m_Localized: Fahren Sie mit einem unendlichen Aufzug und besiegen Sie einen Feind
+      nach dem anderen. Erreichen Sie die Spitze und werden Sie der Beste!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390459352603910144
+    m_Localized: Entfessele deinen Zorn in einer Serie erbarmungsloser Duelle, um
+      allen zu zeigen, wer am schnellsten im Spiel Stein, Papier und Schere ist.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390780975659835392
+    m_Localized: "Spielmodus ausw\xE4hlen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420516216079466496
+    m_Localized: "K\xE4mpfe mit deinen Freunden und entscheidet, wer der Beste ist,
+      wer den M\xFCll rausbringen sollte, wer das Geschirr sp\xFClen sollte... Oder
+      was auch immer du willst!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420518409838870528
+    m_Localized: Duell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420534188789547008
+    m_Localized: Spieler {player}
+    m_Metadata:
+      m_Items:
+      - rid: 0
+  - m_Id: 421639186600509440
+    m_Localized: Rang #{rank}
+    m_Metadata:
+      m_Items:
+      - rid: 0
+  - m_Id: 424174850953003008
+    m_Localized: "Dr\xFCcken Sie eine beliebige Taste, um beizutreten"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 426257364240646144
+    m_Localized: Bereit!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 488469551885139968
+    m_Localized: Spiel verlassen
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 0
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0020c31ee2e556000020c3bb77c568000040b5da9d09d6050040b5349bf6d905

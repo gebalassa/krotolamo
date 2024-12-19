@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Estic
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 9078ae577c77d6b49a28df0f7f77c55e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4f1847204a79ff847999946c4dbccf1a, type: 3}
+  - {fileID: 21300000, guid: 63151c309be8a6b458afa139f999eab8, type: 3}
+  - {fileID: 21300000, guid: fa3584b1d61a10b418a5f4c17c0680ff, type: 3}
+  - {fileID: 21300000, guid: 05c01cb259fec8b4c8f4291c7f677d17, type: 3}
+  - {fileID: 21300000, guid: dac42df21c1500f40b550f7fc448f7e7, type: 3}
+  - {fileID: 21300000, guid: 7a659a135a99b904280c1aea3ca42cea, type: 3}
+  - {fileID: 21300000, guid: 140ee03341cf9a94585e0dfe114ed5e1, type: 3}
+  - {fileID: 21300000, guid: cc25dfa3d912dde4e91041a099765b80, type: 3}
+  - {fileID: 21300000, guid: e659dfa309b35004ca9ec2bdafe3c3a3, type: 3}
+  - {fileID: 21300000, guid: 7c2e7a341bb9a5144811a4a02c66f596, type: 3}
+  - {fileID: 21300000, guid: 2bc9287461917ed42b5202094bde9be4, type: 3}
+  - {fileID: 21300000, guid: d17b03e4e96f4b64586ea3284edac5ae, type: 3}
+  - {fileID: 21300000, guid: 710d08e4a0fb029449e332d1d46cf488, type: 3}
+  - {fileID: 21300000, guid: 7a8adaf4b1019184ca9db00507673c53, type: 3}
+  - {fileID: 21300000, guid: 3361bcb547f743449b14d0a46c8f13c4, type: 3}
+  - {fileID: 21300000, guid: 50d97ec57f478ce44bf08a0e66d97bb7, type: 3}
+  - {fileID: 21300000, guid: 2795c91746b901440b6da896723ea637, type: 3}
+  - {fileID: 21300000, guid: 49fd345747a1e4f49b8210a0bc2cb06d, type: 3}
+  - {fileID: 21300000, guid: 0fc79e67b63c18940bb0685e568880d6, type: 3}
+  - {fileID: 21300000, guid: 606de287bfcfbf54f861f5dedf345d51, type: 3}
+  - {fileID: 21300000, guid: 9d1b78f781a65d04794f0cb236155334, type: 3}
+  - {fileID: 21300000, guid: cd90ed88b79413f4aa81e87d6effc5fd, type: 3}
+  - {fileID: 21300000, guid: 44ff54e8152b5ca48a1e90968d3fb898, type: 3}
+  - {fileID: 21300000, guid: c86e27993d79d3e4fb4508db82b21c59, type: 3}
+  - {fileID: 21300000, guid: 9a1033a993a985f45a85b2fb4e962793, type: 3}
+  - {fileID: 21300000, guid: 7f9ef7b9269a57642a514bc03da60b3e, type: 3}
+  - {fileID: 21300000, guid: 8be495aa228115f4a870fd0e5aef6ce7, type: 3}
+  - {fileID: 21300000, guid: 3b0b2b5b1c1cdb844adadd93455e41d4, type: 3}
+  - {fileID: 21300000, guid: 059ef1ab1ae0bf54baae3f34941e3f28, type: 3}
+  - {fileID: 21300000, guid: b7424e6c930f2864d9db4bd4e5a3c930, type: 3}
+  - {fileID: 21300000, guid: 1a202f7c36108744dacbcff635e36eaf, type: 3}
+  - {fileID: 21300000, guid: 022f17dcf82e9d949adb7f8b529d6dcb, type: 3}
+  - {fileID: 21300000, guid: 37f4eeec5bbe0f54cb88611c67471e97, type: 3}
+  - {fileID: 21300000, guid: ab18053d4c63db84a99b5013f9cc3e0c, type: 3}
+  - {fileID: 21300000, guid: 3bac2b7d02c1f2e478ce9cb57471b2b9, type: 3}
+  - {fileID: 21300000, guid: c796139d43604e345a093b8a67e5e04a, type: 3}
+  - {fileID: 21300000, guid: 69c75fad5ef338e4cba39b95bf703847, type: 3}
+  - {fileID: 21300000, guid: 3a8424cd60f2d60498320524e37a78a0, type: 3}
+  - {fileID: 21300000, guid: 9c4a26ed3163c264287a81c6b0fcb217, type: 3}
+  - {fileID: 21300000, guid: 064a487e2fb221c45826d88857846c56, type: 3}
+  - {fileID: 21300000, guid: 76c2d42f14ca0624a8ab00bf971f3a3b, type: 3}
+  - {fileID: 21300000, guid: 9d82806feae2a264d9310eb0bfed9a84, type: 3}
+  - {fileID: 21300000, guid: 2551a19fb177a42478a60c20cde47d42, type: 3}
+  - {fileID: 21300000, guid: a22f78ffe3b4a2a42849b0ff940d661e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - estic_win_monster__0000s_0000s_0000_4
+  - estic_super__0001_2
+  - estic_attack_yoyo__0000s_0001_yoyo_3
+  - 8
+  - estic_stand_0000_4
+  - 4
+  - estic_stand_0003_1
+  - estic_win_monster__0000s_0000s_0002_2
+  - estic_super__0002_1
+  - estic_lose_0001_4
+  - estic_lose_0004_1
+  - estic_win__0000s_0000s_0000_4
+  - estic_attack__0000s_0002_tijera
+  - 3
+  - estic_win_monster__0000s_0000s_0003_1
+  - fx_3
+  - estic_win__0000s_0000s_0003_1
+  - 7
+  - fx_2
+  - 1a
+  - estic_super__0004_1
+  - estic_win__0000s_0000s_0002_2
+  - 1
+  - 1c
+  - estic_stand_0001_3
+  - estic_attack_yoyo__0000s_0000_yoyo_4
+  - estic_lose_0000_5
+  - estic_win_monster__0000s_0000s_0001_3
+  - 6
+  - estic_win__0000s_0000s_0001_3
+  - 2
+  - estic_attack_0
+  - estic_stand_0002_2
+  - estic_attack_yoyo__0000s_0003_yoyo_1
+  - estic_attack_1
+  - 1b
+  - estic_lose_0002_3
+  - estic_attack__0000s_0001_papel
+  - estic_super__0000_3
+  - fx_1
+  - estic_lose_0003_2
+  - estic_attack__0000s_0000_piedra
+  - estic_attack_yoyo__0000s_0002_yoyo_2
+  - 5
+  m_RenderDataMap: {}
+  m_Tag: Estic
+  m_IsVariant: 0

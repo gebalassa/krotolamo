@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Joystick_id
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: id
+  m_SharedData: {fileID: 11400000, guid: 2daf1d2b0ad283346a2fba011ddfa16b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1122822864896
+    m_Localized: Tunjukkan serangan musuh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155404218368
+    m_Localized: Kontrol waktu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1202028101632
+    m_Localized: Tongkat ajaib
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1222987038720
+    m_Localized: Serangan Super
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1280209928192
+    m_Localized: Batu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1291484217344
+    m_Localized: Kertas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1300942372864
+    m_Localized: Gunting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13943186997248
+    m_Localized: Tata Letak Tombol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6829173984542720
+    m_Localized: (Tahan tombol serangan untuk mengecoh)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6924444202516480
+    m_Localized: Mode pemain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6924506735394816
+    m_Localized: Mode penonton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6924591699410944
+    m_Localized: Lempar objek (Kanan)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6924565245935616
+    m_Localized: Lempar objek (Kiri)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6924552323284992
+    m_Localized: Dukung (Kanan)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6924537236373504
+    m_Localized: Dukung (Kiri)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60076369525424128
+    m_Localized: Tata letak keyboard
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

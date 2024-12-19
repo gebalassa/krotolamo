@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Deluxe_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 14999b99c6868de46a567678f222150a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8376229888
+    m_Localized: Deluxe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76126822400
+    m_Localized: Deluxe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2472999591936
+    m_Localized: "Siempre tendr\xE1s 3 superpoderes al inicio de una sesion de juego."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4002645483520
+    m_Localized: "Conseguir\xE1s el logro \"Deluxe!\"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4711063429120
+    m_Localized: El doble de monedas al ganar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13207251132416
+    m_Localized: "Los desarrolladores podr\xE1n comer."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13716838096896
+    m_Localized: Cambio de color para personajes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17610251116544
+    m_Localized: Toma mi dinero
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17833006407680
+    m_Localized: No gracias
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140296900481064960
+    m_Localized: "Todos los personajes b\xE1sicos."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

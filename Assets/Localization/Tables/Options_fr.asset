@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Options_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 7833c4782b81d6042916fcbc35eeea9c, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 1682352915297075210
+  m_TableData:
+  - m_Id: 25459630080
+    m_Localized: Musique
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28299173888
+    m_Localized: Sons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31071608832
+    m_Localized: "Contr\xF4les"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34750013440
+    m_Localized: Gauche
+    m_Metadata:
+      m_Items: []
+  - m_Id: 202232766464
+    m_Localized: Droite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128381312245760
+    m_Localized: Vibration
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128581548318720
+    m_Localized: Oui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128749135929344
+    m_Localized: Non
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166084271611904
+    m_Localized: Langue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387164152569749504
+    m_Localized: Choisissez votre personnage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387164446665957376
+    m_Localized: Personnage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387164788623368192
+    m_Localized: "Cr\xE9dits"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387164778682867712
+    m_Localized: "Param\xE8tres"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387164764514508800
+    m_Localized: "R\xE9alisations"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387164752472662016
+    m_Localized: Classements
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387164740292403200
+    m_Localized: Chargement des ressources {Value}
+    m_Metadata:
+      m_Items:
+      - rid: 1682352915297075210
+  - m_Id: 387164726145015808
+    m_Localized: Appuyez pour jouer... mais pas le logo!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387164692749967360
+    m_Localized: Appuyez pour jouer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390446536283086848
+    m_Localized: Allons-y!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390446292015210496
+    m_Localized: Prochain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 404201436616146944
+    m_Localized: "Difficult\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 404235544369119232
+    m_Localized: Activer le tutoriel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 404235546881507328
+    m_Localized: "D\xE9sactiver le tutoriel"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 405662920135229440
+    m_Localized: "D\xE9tails du personnage"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 406019752171225088
+    m_Localized: "S\xE9lectionner"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 416154028384534528
+    m_Localized: Appuyez sur Start pour jouer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 416154050639511552
+    m_Localized: Ce n'est pas le bouton Start...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 494974826519195648
+    m_Localized: Arbitre
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 1682352915297075210
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0060afae477c5f05

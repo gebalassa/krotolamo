@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Platform Fonda2022
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b7963817227b69e4fb64fa8f962c628a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ec50f1f2117f57541a5d999b7cd45b59, type: 3}
+  - {fileID: 21300000, guid: c521b5632ed372b41809ae0c2bc69e7d, type: 3}
+  - {fileID: 21300000, guid: 39526a05fc2bee843a2ccb44b98a7ff9, type: 3}
+  - {fileID: 21300000, guid: 55172015c4840eb44b66a883be3ffa96, type: 3}
+  - {fileID: 21300000, guid: 62775a45b9c8d5d4994403c29b046b41, type: 3}
+  - {fileID: 21300000, guid: a56d3185a4b9b434c8edd9538c4d1b4f, type: 3}
+  - {fileID: 21300000, guid: 62d793095b3e7c349b7d334292ac035a, type: 3}
+  - {fileID: 21300000, guid: ba36fe89c7484aa429719414e96c30ec, type: 3}
+  - {fileID: 21300000, guid: c82032f919d48ec459d3abbfcf1b26b6, type: 3}
+  - {fileID: 21300000, guid: 5199f5cb832e8c948a852221db73f31e, type: 3}
+  - {fileID: 21300000, guid: 6cb872ac4923f6a449ca4ba11718afed, type: 3}
+  - {fileID: 21300000, guid: 71c5f4cccce438547a67f2c9506b20c5, type: 3}
+  - {fileID: 21300000, guid: 8a2ee3dc729db644c86b138115791e9c, type: 3}
+  - {fileID: 21300000, guid: 1318656df85698143aee835c85d87c70, type: 3}
+  - {fileID: 21300000, guid: b17a7c5e14ec9b3479c4dbb1fc3c6366, type: 3}
+  - {fileID: 21300000, guid: cc42b8aeed11b2c47ae877dc79641c1c, type: 3}
+  - {fileID: 21300000, guid: 30a500df8624f7b43956ba87599f16c9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - fonda__0000s_0002s_0000_Cartel-Nombre
+  - fonda__0000s_0004s_0000_Botella_1
+  - fonda__0000s_0000_Platform-v02
+  - fonda__0000s_0002s_0005_Cartel_1
+  - fonda__0000s_0002s_0001_Adorno-semicircular
+  - fonda__0000s_0000s_0000_Banderines
+  - fonda__0000s_0001s_0000s_0000_GuirnaldasBlue
+  - fonda__0000s_0002s_0004_Cartel_2
+  - fonda__0000s_0003s_0001_Mesa
+  - fonda__0000s_0004s_0001_Botella_2
+  - fonda__0000s_0004s_0003_Botella_4
+  - fonda__0000s_0003s_0000_Plantas
+  - fonda__0000s_0002s_0002_Cartel_1
+  - fonda__0000s_0002s_0003_Cartel_3
+  - fonda__0000s_0004s_0002_Botella_3
+  - fonda__0000s_0001s_0000s_0002_Guirnaldaswhite
+  - fonda__0000s_0001s_0000s_0001_GuirnaldasRed
+  m_RenderDataMap: {}
+  m_Tag: Platform Fonda2022
+  m_IsVariant: 0

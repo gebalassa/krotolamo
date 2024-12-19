@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Achievements_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 513eccc4203e8774daee384e3cbd9d03, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 16857112576
+    m_Localized: "Tenez pendant 30 secondes en mode Fr\xE9n\xE9sie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215293829120
+    m_Localized: "Rendez-vous au 6\xE8me \xE9tage."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252094652416
+    m_Localized: "Gagnez sans r\xE9v\xE9ler le coup de votre adversaire."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281974874112
+    m_Localized: "Gagnez 2 matchs d'affil\xE9e en utilisant de la pierre."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322110169088
+    m_Localized: "Rendez-vous au 30\xE8me \xE9tage."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 351164112896
+    m_Localized: "Acc\xE9dez au 20\xE8me \xE9tage sans perdre ni dessiner."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381983858688
+    m_Localized: "Gagnez un triple match au 40e \xE9tage sans perdre un tour."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 432382615552
+    m_Localized: Perdez dans un triple jeu si votre adversaire est la vieille femme.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18487485592182784
+    m_Localized: "Maintenez pendant 1 minute en mode Fr\xE9n\xE9sie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27609265292386304
+    m_Localized: Personnage exclusif de Deluxe ! version
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366083257298321408
+    m_Localized: "Tenez pendant 120 secondes en mode Fr\xE9n\xE9sie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366083262469898240
+    m_Localized: "Tenez pendant 300 secondes en mode Fr\xE9n\xE9sie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366083264978092032
+    m_Localized: "Tenez pendant 600 secondes en mode Fr\xE9n\xE9sie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366083267301736448
+    m_Localized: "Tenez pendant 150 secondes en mode Fr\xE9n\xE9sie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366083269625380864
+    m_Localized: "Tenez pendant 180 secondes en mode Fr\xE9n\xE9sie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366083271890305024
+    m_Localized: "Tenez pendant 210 secondes en mode Fr\xE9n\xE9sie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366083273937125376
+    m_Localized: "Tenez pendant 240 secondes en mode Fr\xE9n\xE9sie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366083275816173568
+    m_Localized: "Tenez pendant 450 secondes en mode Fr\xE9n\xE9sie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366083277695221760
+    m_Localized: "Tenez pendant 330 secondes en mode Fr\xE9n\xE9sie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366083279591047168
+    m_Localized: "Tenez pendant 360 secondes en mode Fr\xE9n\xE9sie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366083281516232704
+    m_Localized: "Tenez pendant 390 secondes en mode Fr\xE9n\xE9sie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366083283479166976
+    m_Localized: "Tenez pendant 420 secondes en mode Fr\xE9n\xE9sie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366084304574087168
+    m_Localized: "Tenez pendant 270 secondes en mode Fr\xE9n\xE9sie."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 388933292863217664
+    m_Localized: __xx__
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390051663528812544
+    m_Localized: "M\xE9thode de d\xE9verrouillage:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 451210931623772160
+    m_Localized: "Tenez pendant 666 secondes en mode Fr\xE9n\xE9sie."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

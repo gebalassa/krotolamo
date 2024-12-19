@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Characters_es-AR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es-AR
+  m_SharedData: {fileID: 11400000, guid: 272ec3c66e3df6d4a9431d7b652dc151, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 46353671109419008
+    m_Localized: "Personajes b\xE1sicos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45682083800227840
+    m_Localized: "\xBFQui\xE9n sos?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45682087252140032
+    m_Localized: Disponible en Steam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45682151685038080
+    m_Localized: Instagram
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18446753792
+    m_Localized: "DJ de distintas Roller disco y campe\xF3n juvenil de la torre Janken.
+      Ha pasado a\xF1os sin jugar pero su talento no se ha perdido."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80874774528
+    m_Localized: "Chef experta en realizar comidas r\xE1pidas y deliciosas. Despu\xE9s
+      de cada duelo, comparte alguno de sus famosos postres con su oponente para
+      subir los \xE1nimos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232016519168
+    m_Localized: "Su nombre real es Benito. Empez\xF3 a entrenar en su pueblo natal
+      Peor es Nada a los 5 a\xF1os viendo pel\xEDculas de Bruce Lee."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 241181073408
+    m_Localized: "Nadie sabe c\xF3mo lleg\xF3 a la torre ni cu\xE1l es su verdadero
+      rostro, pero se ha ganado un puesto dentro de esta. Algunos creen que es un
+      demonio."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 297208586240
+    m_Localized: "Buscapleitos, lleg\xF3 a la torre porque alguien lo ret\xF3 y lo
+      llam\xF3 gallina. Evita hablar sobre su pasado y el por qu\xE9 de su brazo
+      mec\xE1nico...debe tener algo que ver con lo de gallina."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342549012480
+    m_Localized: "Nacida con talento natural para jugar cachipun. Es una de las promesas
+      de su pa\xEDs, por lo que har\xE1 todo lo posible de ser la mejor del mundo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 356562182144
+    m_Localized: "Estudiante de secundaria que ama el anime. Su padre era f\xE1natico
+      de \"Janken Man\" y pas\xF3 ese fanatismo a su hija."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 415743811584
+    m_Localized: "Fue monje durante la mayor parte de su vida. Hoy vive una vida
+      tranquila cultivando su huerto y ense\xF1ando sus t\xE9cnicas secretas en su
+      escuela de cachipun."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 417723523072
+    m_Localized: "Cuando no est\xE1 trabajando en su tienda de verduras se junta
+      con sus amigas a jugar juegos de infancia. El cachipun y el pepito paga doble
+      son sus juegos favoritos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 501781569536
+    m_Localized: "Ha entrenado desde ni\xF1o para ser \xE1rbitro de la torre. Piensa,
+      come y vive cachipun. Todos los \xE1rbitros son intervenidos quir\xFArgicamente
+      para lucir iguales."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 515425640448
+    m_Localized: Jugador de poker online. No es muy bueno, pero siempre recupera
+      lo perdido. Ahora busca nuevas oportunidades en distintos juegos.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 520723046400
+    m_Localized: "Tiene un amor absoluto por las motocicletas y la velocidad. Ha
+      recorrido su pa\xEDs en busca de desaf\xEDos para saciar su necesidad de adrenalina."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45680266991312896
+    m_Localized: "Amigos desde que fueron botaos en un callej\xF3n. La viveza de
+      Gast\xF3n y la fuerza de Miauffin los ha llevado a muchas aventuras."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147985382129213440
+    m_Localized: ????????????????????????????????????????????????????????
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Icons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7fd382c4f03e6eb4db8ade4a0c29f6d6, type: 3}
+    - {fileID: 21300000, guid: d19829eee00ec49498ee6709c578620d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 4527ed613221e9942b29e78583daa3c2, type: 3}
+  - {fileID: 21300000, guid: 649ab1f1825ca124189099d20f21a01b, type: 3}
+  - {fileID: 21300000, guid: eef95ff15fa914745b85611137f56f9c, type: 3}
+  - {fileID: 21300000, guid: b93fa8a2cce694f47bdb688076936070, type: 3}
+  - {fileID: 21300000, guid: fa78e9d4c77a13b40aad6ae6d4ad07db, type: 3}
+  - {fileID: 21300000, guid: f021e515867fd8d4cb3af6b9d1d83396, type: 3}
+  - {fileID: 21300000, guid: d324cc5590542e240850cbe06e968785, type: 3}
+  - {fileID: 21300000, guid: 2f29b2979dd881a4c8efc8d346c31b66, type: 3}
+  - {fileID: 21300000, guid: 6bd1f8d85719d3e47b1a15eccd24b1d1, type: 3}
+  - {fileID: 21300000, guid: cdc7dfac8e2899b47a1d1d493f74824a, type: 3}
+  - {fileID: 21300000, guid: c55daa0e28d6dba4e95d9b3b1f152ae3, type: 3}
+  - {fileID: 21300000, guid: d19829eee00ec49498ee6709c578620d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - logo-instagram
+  - back
+  - blue-large
+  - deluxe
+  - red
+  - next
+  - left
+  - J-Coins-Button
+  - close
+  - logo-steam
+  - blue
+  - button-pause
+  m_RenderDataMap: {}
+  m_Tag: Icons
+  m_IsVariant: 0

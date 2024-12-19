@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: JanKenShop_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: fa7911a0586c824419d113596a7e117c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 19243671552
+    m_Localized: Legends
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121228173312
+    m_Localized: Hit hard, Hara!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3913978682220544
+    m_Localized: It's yours!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3971314830483456
+    m_Localized: Take my money!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4020060167544832
+    m_Localized: Details
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4032592345243648
+    m_Localized: 5 exclusive characters.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4034914353881088
+    m_Localized: Three characters from the animated series "Hit Hard, Hara!".
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20180758765445120
+    m_Localized: Pichanga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20181949389938688
+    m_Localized: Includes characters from Chilean culture.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108773613435559936
+    m_Localized: El Brayan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108773761666457600
+    m_Localized: Includes characters from the webtoon "El Brayan"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

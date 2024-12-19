@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8627477402963856112
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8627477402963856126}
+  - component: {fileID: 7444916343008629901}
+  - component: {fileID: 4774290320334131868}
+  m_Layer: 0
+  m_Name: JoystickPlayer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8627477402963856126
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8627477402963856112}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7444916343008629901
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8627477402963856112}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47c4b4d765be0274896c855773f69dbf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  threshold: 0.99
+  waitUntilDestroy: 10
+--- !u!114 &4774290320334131868
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8627477402963856112}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Actions: {fileID: -944628639613478452, guid: d0690a5855e98004eb684aae7996744f,
+    type: 3}
+  m_NotificationBehavior: 0
+  m_UIInputModule: {fileID: 0}
+  m_DeviceLostEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_DeviceRegainedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ControlsChangedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ActionEvents:
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: c50e0284-4f10-4414-bd58-75f4c62ad0e6
+    m_ActionName: Joystick/Move[/SwitchProControllerHID/dpad,/SwitchProControllerHID/leftStick,/SwitchProControllerHID/rightStick]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: aa7ea334-a875-477d-b6f6-0a945491bb19
+    m_ActionName: Joystick/MoveDPad[/SwitchProControllerHID/dpad]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 61723049-76d8-4bb4-b7f5-f3ae8132c732
+    m_ActionName: Joystick/MoveLeftStick[/SwitchProControllerHID/leftStick]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: aca9f697-3691-4948-90b2-d09a7a13ce1a
+    m_ActionName: Joystick/MoveRightStick[/SwitchProControllerHID/rightStick]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 391a2206-8c75-4d28-89c0-c79fa447c54c
+    m_ActionName: Joystick/X[/SwitchProControllerHID/buttonNorth]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 5336eb07-7aca-4bb0-b2c6-6a5d697ee7c9
+    m_ActionName: Joystick/XHold[/SwitchProControllerHID/buttonNorth]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: f8c7aeda-1146-4d27-9cb0-3e984c33b46e
+    m_ActionName: Joystick/Y[/SwitchProControllerHID/buttonWest]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: e4e4cb81-5fc6-469c-9201-3596e337979b
+    m_ActionName: Joystick/YHold[/SwitchProControllerHID/buttonWest]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 02a401cf-e5d8-4f71-8a8b-c57d576c0836
+    m_ActionName: Joystick/A[/SwitchProControllerHID/buttonEast]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 735d53f4-1de8-427c-9eb0-630b67d08f62
+    m_ActionName: Joystick/AHold[/SwitchProControllerHID/buttonEast]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: e144a369-1fc3-48d1-986a-dab706292223
+    m_ActionName: Joystick/B[/SwitchProControllerHID/buttonSouth]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: d9d54bdc-ddb3-423e-837e-0b65891033b1
+    m_ActionName: Joystick/BHold[/SwitchProControllerHID/buttonSouth]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: bd3f7e57-a074-42bd-84d7-b1f582e17f21
+    m_ActionName: Joystick/Start[/SwitchProControllerHID/start]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 137b752e-adf8-494e-8380-fcac7f6d535a
+    m_ActionName: Joystick/Select[/SwitchProControllerHID/select]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: a979f3ee-b813-41be-aac1-7a4e3bff94d4
+    m_ActionName: Joystick/L[/SwitchProControllerHID/leftShoulder]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 6490cfd2-0872-4e38-80f4-9a828d9c7bd5
+    m_ActionName: Joystick/ZL[/SwitchProControllerHID/leftTrigger]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 4f2191bb-6e5c-4f76-8feb-d0fca3fcc69c
+    m_ActionName: Joystick/R[/SwitchProControllerHID/rightShoulder]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: ea55bd04-b406-4609-92dc-7e5879da9642
+    m_ActionName: Joystick/ZR[/SwitchProControllerHID/rightTrigger]
+  m_NeverAutoSwitchControlSchemes: 1
+  m_DefaultControlScheme: Joystick
+  m_DefaultActionMap: Joystick
+  m_SplitScreenIndex: -1
+  m_Camera: {fileID: 0}

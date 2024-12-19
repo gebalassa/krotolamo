@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: InGame Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: InGame
+  m_TableCollectionNameGuidString: 0de32d1776902be4f905a5d1977fc5f8
+  m_Entries:
+  - m_Id: 29549076480
+    m_Key: Triple
+    m_Metadata:
+      m_Items: []
+  - m_Id: 415202746368
+    m_Key: New Record
+    m_Metadata:
+      m_Items: []
+  - m_Id: 663945945088
+    m_Key: Floor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 723685416960
+    m_Key: Victories
+    m_Metadata:
+      m_Items: []
+  - m_Id: 836482834432
+    m_Key: Defeats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 978367750144
+    m_Key: Ties
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1037088006144
+    m_Key: Coins
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1104553385984
+    m_Key: Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1303476641792
+    m_Key: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1519873368064
+    m_Key: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9452862513152
+    m_Key: Easier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9512090279936
+    m_Key: Harder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84700890865664
+    m_Key: Trust
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1882401538252800
+    m_Key: Time master
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1882756015661056
+    m_Key: Magic Wand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1882887028940800
+    m_Key: Jan Ken Up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2626232822996992
+    m_Key: A new challenger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8505521783119872
+    m_Key: Max Combo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17816368556744704
+    m_Key: Classic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17816917788270592
+    m_Key: Frenzy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420518409838870528
+    m_Key: Duel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17832314755293184
+    m_Key: Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18946041059680256
+    m_Key: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24458267010998272
+    m_Key: Bravo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24459607338590208
+    m_Key: Round
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29490515619815424
+    m_Key: FreeDeluxeUntil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390459325441597440
+    m_Key: Classic_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390459352603910144
+    m_Key: Frenzy_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420516216079466496
+    m_Key: Duel_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390780975659835392
+    m_Key: select_game_mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 420534188789547008
+    m_Key: player_x
+    m_Metadata:
+      m_Items: []
+  - m_Id: 421639186600509440
+    m_Key: rank_x
+    m_Metadata:
+      m_Items: []
+  - m_Id: 424174850953003008
+    m_Key: press_to_join
+    m_Metadata:
+      m_Items: []
+  - m_Id: 426257364240646144
+    m_Key: ready
+    m_Metadata:
+      m_Items: []
+  - m_Id: 488469551885139968
+    m_Key: closeGame
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 0
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1614615179844

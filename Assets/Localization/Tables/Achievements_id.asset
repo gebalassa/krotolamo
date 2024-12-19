@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Achievements_id
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: id
+  m_SharedData: {fileID: 11400000, guid: 513eccc4203e8774daee384e3cbd9d03, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 16857112576
+    m_Localized: Tahan selama 30 detik dalam mode Frenzy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215293829120
+    m_Localized: Naik ke lantai 6.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 252094652416
+    m_Localized: Menang tanpa mengungkap langkah lawan Anda.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 281974874112
+    m_Localized: Menangkan 2 pertandingan berturut-turut dengan menggunakan batu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 322110169088
+    m_Localized: Naik ke lantai 30.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 351164112896
+    m_Localized: Naik ke lantai 20 tanpa kalah atau seri.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 381983858688
+    m_Localized: Menangkan tiga pertandingan di lantai 40 tanpa kehilangan. giliran
+    m_Metadata:
+      m_Items: []
+  - m_Id: 432382615552
+    m_Localized: Kalah dalam tiga permainan jika lawan kamu adalah wanita tua.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18487485592182784
+    m_Localized: Tahan selama 1 menit dalam mode Frenzy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27609265292386304
+    m_Localized: Karakter eksklusif dari versi Deluxe!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366083257298321408
+    m_Localized: Tahan selama 120 detik dalam mode Frenzy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366083262469898240
+    m_Localized: Tahan selama 300 detik dalam mode Frenzy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366083264978092032
+    m_Localized: Tahan selama 600 detik dalam mode Frenzy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366083267301736448
+    m_Localized: Tahan selama 150 detik dalam mode Frenzy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366083269625380864
+    m_Localized: Tahan selama 180 detik dalam mode Frenzy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366083271890305024
+    m_Localized: Tahan selama 210 detik dalam mode Frenzy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366083273937125376
+    m_Localized: Tahan selama 240 detik dalam mode Frenzy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366083275816173568
+    m_Localized: Tahan selama 450 detik dalam mode Frenzy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366083277695221760
+    m_Localized: Tahan selama 330 detik dalam mode Frenzy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366083279591047168
+    m_Localized: Tahan selama 360 detik dalam mode Frenzy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366083281516232704
+    m_Localized: Tahan selama 390 detik dalam mode Frenzy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366083283479166976
+    m_Localized: Tahan selama 420 detik dalam mode Frenzy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 366084304574087168
+    m_Localized: Tahan selama 270 detik dalam mode Frenzy.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 388933292863217664
+    m_Localized: __xx__
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390051663528812544
+    m_Localized: 'Metode membuka kunci:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 451210931623772160
+    m_Localized: Tahan selama 666 detik dalam mode Frenzy.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

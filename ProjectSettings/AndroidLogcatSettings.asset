@@ -1,0 +1,257 @@
+{
+    "m_SelectedDeviceId": "b99c8cd71efc4a8e",
+    "m_SelectedPackage": {
+        "deviceId": "b99c8cd71efc4a8e",
+        "name": "com.humita.jankenup",
+        "processId": 9882,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 3063,
+            "exited": true
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 4299,
+            "exited": true
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 8852,
+            "exited": true
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 10508,
+            "exited": true
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 11172,
+            "exited": true
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.android.vending",
+            "processId": 4544,
+            "exited": false
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 19167,
+            "exited": false
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 24287,
+            "exited": false
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 25313,
+            "exited": false
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 21900,
+            "exited": false
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 23672,
+            "exited": false
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 18139,
+            "exited": false
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 4831,
+            "exited": false
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 13616,
+            "exited": true
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 15525,
+            "exited": false
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 16749,
+            "exited": false
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 1170,
+            "exited": false
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 15220,
+            "exited": false
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 15628,
+            "exited": false
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 17136,
+            "exited": false
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 19618,
+            "exited": false
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 26017,
+            "exited": false
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 30861,
+            "exited": false
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 17908,
+            "exited": false
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 20181,
+            "exited": false
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 22637,
+            "exited": false
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 19163,
+            "exited": false
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 5445,
+            "exited": false
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 13891,
+            "exited": false
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 28748,
+            "exited": false
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 5508,
+            "exited": false
+        },
+        {
+            "deviceId": "b99c8cd71efc4a8e",
+            "name": "com.humita.jankenup",
+            "processId": 9882,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 255.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 1,
+        "Behavior": 1
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

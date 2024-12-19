@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Referee
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b7282f1f468c841a1abfe47896cbdb66, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ddf6a300893b24e4b90101af6a4c5d41, type: 3}
+  - {fileID: 21300000, guid: 4cb7bf71375d7498dab4bd6fd63c63cf, type: 3}
+  - {fileID: 21300000, guid: e5c9b6c1f27db4d9b91110576016442f, type: 3}
+  - {fileID: 21300000, guid: d27d1e82e7c45f14bb253999aca62bed, type: 3}
+  - {fileID: 21300000, guid: dfb597a43449343f2b07e53a5e0912ac, type: 3}
+  - {fileID: 21300000, guid: ad22ea256e6394836825af7241dfb21b, type: 3}
+  - {fileID: 21300000, guid: df2f7975097c46747a3e5dc1a7e40a8f, type: 3}
+  - {fileID: 21300000, guid: 6dcddf7503e70ae46b96b14146873785, type: 3}
+  - {fileID: 21300000, guid: 5162c885673ad21438c370680995e90c, type: 3}
+  - {fileID: 21300000, guid: d373e4c5de9e4493cb93deb7c34ab90e, type: 3}
+  - {fileID: 21300000, guid: 4cfea2466dd9c3249908afa01c568e8a, type: 3}
+  - {fileID: 21300000, guid: 6c2ce197cab835c46bee4cc8f6820886, type: 3}
+  - {fileID: 21300000, guid: 67dddbe7ac8344985bf7b00be86e74b9, type: 3}
+  - {fileID: 21300000, guid: 5fb8c03875b7c4a53b2d04d030b65706, type: 3}
+  - {fileID: 21300000, guid: 81d083487b401494abb42ac726aa5da0, type: 3}
+  - {fileID: 21300000, guid: b3267f883b861ba43936a3bd4cd27b4e, type: 3}
+  - {fileID: 21300000, guid: 6ae2bd98804f8554e9b2142c39329c26, type: 3}
+  - {fileID: 21300000, guid: 35806d896cfcd42bfbc00e3f81d52340, type: 3}
+  - {fileID: 21300000, guid: 26f9408a3f7294f7db885c02a6680c6c, type: 3}
+  - {fileID: 21300000, guid: 3d4fe6dafa3dd4ab7a29d458750a9f2a, type: 3}
+  - {fileID: 21300000, guid: 8f3f39da70cecd149a67149f4460edfd, type: 3}
+  - {fileID: 21300000, guid: f091b6fa9d8d1f342bdc8566be0b86d5, type: 3}
+  - {fileID: 21300000, guid: 34931a9b5016b57468c39b7b735e4b30, type: 3}
+  - {fileID: 21300000, guid: 69016f2d4048afe4083d940461f1de1a, type: 3}
+  - {fileID: 21300000, guid: cd78374d0493ac043bc19b1aa56b2f8c, type: 3}
+  - {fileID: 21300000, guid: 90dc0bcdd5eea4ef186e005041b9f4a2, type: 3}
+  - {fileID: 21300000, guid: 1f4663dd148ce439bb1fa854d0fb3034, type: 3}
+  - {fileID: 21300000, guid: c734f5bf1a74d41caa8a1b9eed1ac88c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - RefereeStand_003
+  - RefereeStand_002
+  - RefereeWinRight_02
+  - _0008_BackupRefereeJanken_002
+  - RefereeStand_001
+  - RefereeStand_004
+  - _0013_Layer-1
+  - _0003_BackupRefereeWinRight_001
+  - _0000_BackupRefereeDraw_002
+  - RefereeDraw_01
+  - _0001_BackupRefereeDraw_001
+  - _0005_BackupRefereeWinLeft_001
+  - RefereeJanken_02
+  - RefereeWinLeft_02
+  - _0002_BackupRefereeWinRight_002
+  - _0012_BackupRefereeStand_002
+  - _0006_BackupRefereeJanken_004
+  - RefereeJanken_03
+  - RefereeWinRight_01
+  - RefereeDraw_02
+  - _0011_BackupRefereeStand_003
+  - _0004_BackupRefereeWinLeft_002
+  - _0007_BackupRefereeJanken_003
+  - _0009_BackupRefereeJanken_001
+  - _0010_BackupRefereeStand_004
+  - RefereeJanken_04
+  - RefereeWinLeft_01
+  - RefereeJanken_01
+  m_RenderDataMap: {}
+  m_Tag: Referee
+  m_IsVariant: 0

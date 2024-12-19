@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Platform Humble House
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 88f714d5c5b6b4c499829e6155e42515, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3ed6a520f7c2482448963359255063de, type: 3}
+  - {fileID: 21300000, guid: 0d8ed921c0e1c4b48a070ca6968c21f8, type: 3}
+  - {fileID: 21300000, guid: 60e27131fb46d074f9b4fc3778d5cd4c, type: 3}
+  - {fileID: 21300000, guid: 7b9bccb165da7e44f94676823e3229b5, type: 3}
+  - {fileID: 21300000, guid: e027d2c1c80c1e64c870259104be43c8, type: 3}
+  - {fileID: 21300000, guid: fcaba0e24937fb34f84b7e3713a7478e, type: 3}
+  - {fileID: 21300000, guid: a081a583d1ca8b842a825200a0202472, type: 3}
+  - {fileID: 21300000, guid: bbf2dd933a6bd4a4787abed662e95ca5, type: 3}
+  - {fileID: 21300000, guid: e253bdf365d4d3c47a0c89d73c606ec8, type: 3}
+  - {fileID: 21300000, guid: f7195a94e1b70cb4bb7f56eede2bf0d9, type: 3}
+  - {fileID: 21300000, guid: 4c7e9fc44d83fb1449495433825b2f11, type: 3}
+  - {fileID: 21300000, guid: 20a7ea76e43f7f741ae42e6f89b1faa7, type: 3}
+  - {fileID: 21300000, guid: b28abfa62dbdc83448cef77605f7a1f4, type: 3}
+  - {fileID: 21300000, guid: abbca4c66af1d6f4a92a7d722115f7f5, type: 3}
+  - {fileID: 21300000, guid: d73674f6c25d2f84892d8b64809aa2c2, type: 3}
+  - {fileID: 21300000, guid: ad701b57916b43a4abf2f4aecab55472, type: 3}
+  - {fileID: 21300000, guid: 91e62188cedfc4c418107b314fe38565, type: 3}
+  - {fileID: 21300000, guid: 068b29495d0a16a439165413a9c3a7ad, type: 3}
+  - {fileID: 21300000, guid: 6e9f1e4969a74194e9b972a8afd254b5, type: 3}
+  - {fileID: 21300000, guid: 30165b79cd23ac54ea9c7259aaf39011, type: 3}
+  - {fileID: 21300000, guid: 0750eb7910d4d314395bc0d4d9cc37fb, type: 3}
+  - {fileID: 21300000, guid: c9e04389e8532d846952672c55dfb8ec, type: 3}
+  - {fileID: 21300000, guid: 760ce62a97aa33a4db7d4e4e88413441, type: 3}
+  - {fileID: 21300000, guid: f012a3fa672466c48bb3a69bd7aa802c, type: 3}
+  - {fileID: 21300000, guid: 74501fcbce2ed394183c2943ba753936, type: 3}
+  - {fileID: 21300000, guid: 2193e3fb7d9bcef4895f6c5d9101c816, type: 3}
+  - {fileID: 21300000, guid: 0bdf048c4dffea942b365157d2bf92d8, type: 3}
+  - {fileID: 21300000, guid: 01f12cfc91b424c4c80b947f6f87d788, type: 3}
+  - {fileID: 21300000, guid: faea520d8d56b124287a638d72e2745d, type: 3}
+  - {fileID: 21300000, guid: 214f2f1dd7a0d064cabc54c7a9a243af, type: 3}
+  - {fileID: 21300000, guid: 15eb14ad4dc7db140841df0d0d6b8382, type: 3}
+  - {fileID: 21300000, guid: 35e0a59e37b4fb244b841b1af768c4fc, type: 3}
+  - {fileID: 21300000, guid: 347bda2fcab57f44888bf9fe7ee20d09, type: 3}
+  - {fileID: 21300000, guid: 5a2b2bcfab038fd48aa4ba55cc46f03f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - humble_house__0000s_0001s_0001s_0000_clothes_7
+  - humble_house__0000s_0001s_0000s_0000_clothes_0
+  - humble_house__0000_El-Gandolfos
+  - humble_house_0000s_0000s_0002_El-James
+  - humble_house__0001_El-Camilos
+  - humble_house__0000s_0001s_0000_pillar
+  - humble_house__0000s_0001s_0002s_0000_crack-wall-1
+  - humble_house__0000s_0001s_0001s_0006_clothes_13
+  - humble_house__0000s_0001s_0001s_0002_clothes_9
+  - humble_house__0000s_0001s_0002s_0001_crack-wall-2
+  - humble_house__0000s_0001s_0003s_0001_El-Kevin
+  - humble_house__0000s_0001s_0001s_0005_clothes_12
+  - humble_house__0000s_0000s_0002_lamp-rope-slice
+  - humble_house__0000s_0000s_0000_lamp-light
+  - humble_house__0000s_0001s_0001s_0004_clothes_11
+  - humble_house_0000s_0000s_0001_El-Zweegs
+  - humble_house__0000s_0001s_0001s_0001_clothes_8
+  - humble_house__0003_El-Alex
+  - humble_house__0000s_0001s_0003s_0002_Brayan
+  - humble_house__0000s_0001s_0000s_0002_clothes_2
+  - humble_house__0000s_0001s_0003s_0003_El-Barto
+  - humble_house__0000s_0001s_0000s_0006_clothes_6
+  - humble_house__0002_El-Cris
+  - humble_house__0000s_0001s_0000s_0003_clothes_3
+  - humble_house__0000s_0001s_0001s_0003_clothes_10
+  - humble_house__0000s_0000_platform
+  - humble_house_0000s_0000s_0000_El-Victors
+  - humble_house__0000s_0001s_0000s_0001_clothes_1
+  - humble_house__0000s_0000s_0003_lamp-rope-main
+  - humble_house__0000s_0001s_0000s_0004_clothes_4
+  - humble_house__0000s_0000s_0001_lamp-base
+  - humble_house_0000s_0000s_0003_El-Claudios
+  - humble_house__0000s_0001s_0003s_0000_Britani
+  - humble_house__0000s_0001s_0000s_0005_clothes_5
+  m_RenderDataMap: {}
+  m_Tag: Platform Humble House
+  m_IsVariant: 0

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: efc702b9fbd7b4d43934440331880a26
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - referee: {instanceID: 0}
+  - leftPlayer: {instanceID: 0}
+  - rightPlayer: {instanceID: 0}
+  - FXExplosionDust: {fileID: 25870778455090666, guid: e5faf817a4170ec46b2ffdedc231f1ae,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

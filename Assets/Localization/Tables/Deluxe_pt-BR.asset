@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Deluxe_pt-BR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: 14999b99c6868de46a567678f222150a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8376229888
+    m_Localized: Deluxe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76126822400
+    m_Localized: Deluxe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2472999591936
+    m_Localized: "Voc\xEA sempre ter\xE1 3 superpoderes no in\xEDcio de uma sess\xE3o
+      de jogo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4002645483520
+    m_Localized: "Voc\xEA receber\xE1 a realiza\xE7\xE3o \"Deluxe!\"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4711063429120
+    m_Localized: "Duplique as moedas quando voc\xEA ganhar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13207251132416
+    m_Localized: "Os desenvolvedores ser\xE3o capazes de comer."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13716838096896
+    m_Localized: "Mudan\xE7a de cor para personagens."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17610251116544
+    m_Localized: Toma o meu dinheiro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17833006407680
+    m_Localized: "N\xE3o, obrigado"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140296900481064960
+    m_Localized: "Todos os personagens b\xE1sicos."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

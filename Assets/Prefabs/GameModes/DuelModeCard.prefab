@@ -1,0 +1,193 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4301891109368361357
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 475738185860026283, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 475738185860026283, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 475738185860026283, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 475738185860026283, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 475738185860026283, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 475738185860026283, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1648226693302188623, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_text
+      value: "Agarrate a guates con tus amigos y dejen en claro qui\xE9n es el m\xE1s
+        vioh. \xA1Sangre por sangre guat\xF3n Bayron!"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4284890650301870477, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: gameMode
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4284890650301870477, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: originalTitle
+      value: Modo Duelo
+      objectReference: {fileID: 0}
+    - target: {fileID: 4539034540187056290, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4539034540187056290, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4539034540187056290, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4539034540187056290, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4539034540187056290, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4539034540187056290, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4539034540187056290, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4539034540187056290, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4539034540187056290, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4539034540187056290, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4539034540187056290, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4539034540187056290, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4539034540187056290, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4539034540187056290, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4539034540187056290, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4539034540187056290, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4539034540187056290, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4539034540187056291, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_Name
+      value: DuelModeCard
+      objectReference: {fileID: 0}
+    - target: {fileID: 4539034540688110642, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4539034540688110642, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4539034540688110642, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4539034540688110642, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4539034540688110642, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4539034540688110645, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_text
+      value: Modo Duelo
+      objectReference: {fileID: 0}
+    - target: {fileID: 4539034541903296516, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: ec179f6eae38e4b43bb612e829288611,
+        type: 3}
+    - target: {fileID: 5882529191567318693, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5882529191567318693, guid: b18b99319b7795e4b84e42c4eca87446,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b18b99319b7795e4b84e42c4eca87446, type: 3}

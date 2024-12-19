@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Options_es-AR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es-AR
+  m_SharedData: {fileID: 11400000, guid: 7833c4782b81d6042916fcbc35eeea9c, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 1682352915297075203
+  m_TableData:
+  - m_Id: 25459630080
+    m_Localized: "M\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28299173888
+    m_Localized: Sonidos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31071608832
+    m_Localized: Controles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34750013440
+    m_Localized: Izquierda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 202232766464
+    m_Localized: Derecha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128381312245760
+    m_Localized: "Vibraci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128581548318720
+    m_Localized: Si
+    m_Metadata:
+      m_Items: []
+  - m_Id: 128749135929344
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 166084271611904
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387164152569749504
+    m_Localized: "Eleg\xED a tu personaje"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387164446665957376
+    m_Localized: Personaje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387164788623368192
+    m_Localized: "Cr\xE9ditos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387164778682867712
+    m_Localized: "Configuraci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387164764514508800
+    m_Localized: Logros
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387164752472662016
+    m_Localized: Ranking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387164740292403200
+    m_Localized: Cargando recursos {Value}
+    m_Metadata:
+      m_Items:
+      - rid: 1682352915297075203
+  - m_Id: 387164726145015808
+    m_Localized: "Toc\xE1 para jugar... menos el logo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 387164692749967360
+    m_Localized: "Toc\xE1 para jugar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390446536283086848
+    m_Localized: "\xA1Juegue!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 390446292015210496
+    m_Localized: Siguiente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 404201436616146944
+    m_Localized: Dificultad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 404235544369119232
+    m_Localized: Activar tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 404235546881507328
+    m_Localized: Desactivar tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 405662920135229440
+    m_Localized: Detalles del personaje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 406019752171225088
+    m_Localized: Seleccionar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 416154028384534528
+    m_Localized: "Presion\xE1 Start para jugar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 416154050639511552
+    m_Localized: "Ese no es el bot\xF3n Start che..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 494974826519195648
+    m_Localized: "\xC1rbitro"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 1682352915297075203
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0060afae477c5f05

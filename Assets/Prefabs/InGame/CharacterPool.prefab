@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3664800024202052105
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3664800024202052107}
+  - component: {fileID: 3664800024202052104}
+  m_Layer: 0
+  m_Name: CharacterPool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3664800024202052107
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3664800024202052105}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3664800024202052104
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3664800024202052105}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a1715b5e34334c72a8e34f799bfca5f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characters:
+  - {fileID: 7976666862422829029, guid: 581d862947ecc4db09357dae3a9d96d2, type: 3}
+  - {fileID: 4878161791841570028, guid: 1b5a95890595844ec9455c3ec504a50d, type: 3}
+  - {fileID: 5646624404139300113, guid: 2a6719c9979eb4aeb8d15a7d8af21bd8, type: 3}
+  - {fileID: 6560819218710114768, guid: f3e8a70bd0c67453ebb74dff6d79b2e9, type: 3}
+  - {fileID: 6634964744995924880, guid: 5783e82f569d94c4c983398a120afe71, type: 3}
+  - {fileID: 8744846334208497827, guid: 22103ba5caebc43eab0d01b9d9630db4, type: 3}
+  - {fileID: 3434143558584622264, guid: 48334cf90e76249d88b75023cbe6bae9, type: 3}
+  - {fileID: 5716481305023545679, guid: fb75c1b0d9b6c4c8c8a14aed93511cd5, type: 3}
+  - {fileID: 6690598601973899153, guid: 99c061792bd8c4c84876e475871ff5ab, type: 3}
+  - {fileID: 9056011462337798563, guid: 678bdb71f421d466b8fbcb3912da2fbc, type: 3}
+  - {fileID: 4027054636702234703, guid: f05121e62f7ba0b428b300d3cbc1f2d4, type: 3}
+  - {fileID: 4027054636702234703, guid: 41b883811b57a5c4d9195a7a04697776, type: 3}
+  secretsCharacters:
+  - {fileID: 1741326827586017617, guid: c35c0b9ff3fc05844b81d90eb243e0b2, type: 3}
+  - {fileID: 116668847568464261, guid: e4146a844704dab488b6432717f0408f, type: 3}
+  tutorialCharacters: []
+  customCharacterPath:
+  - Assets/CustomCharacters/Estic/Estic.prefab
+  - Assets/CustomCharacters/_custom/_custom.prefab

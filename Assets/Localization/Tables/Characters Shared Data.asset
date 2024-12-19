@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Characters Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Characters
+  m_TableCollectionNameGuidString: 272ec3c66e3df6d4a9431d7b652dc151
+  m_Entries:
+  - m_Id: 46353671109419008
+    m_Key: basic_characters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45682083800227840
+    m_Key: more_info
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45682087252140032
+    m_Key: steam_link
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45682151685038080
+    m_Key: instagram_link
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18446753792
+    m_Key: adultman_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80874774528
+    m_Key: adultwoman_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232016519168
+    m_Key: boylee_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 241181073408
+    m_Key: boymask_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 297208586240
+    m_Key: duo_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342549012480
+    m_Key: girlsan_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 356562182144
+    m_Key: girltwo_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 415743811584
+    m_Key: oldman_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 417723523072
+    m_Key: oldwoman_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 501781569536
+    m_Key: referee_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 515425640448
+    m_Key: youngman_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 520723046400
+    m_Key: youngwoman_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45680266991312896
+    m_Key: gastonmiauffin_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147985382129213440
+    m_Key: choriza_description
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 0
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1637691229788

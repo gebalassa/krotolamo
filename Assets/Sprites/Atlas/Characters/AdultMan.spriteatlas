@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AdultMan
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 2812b718abebe4a22b3f17ff7956776b, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0a66b1213ece840be80847669d568515, type: 3}
+  - {fileID: 21300000, guid: 17e7d851d7f154aac872065e839cd3b4, type: 3}
+  - {fileID: 21300000, guid: e8440e638debe4a5e92a86459e824da2, type: 3}
+  - {fileID: 21300000, guid: c47eba34dc0d34b738c17b31f55df277, type: 3}
+  - {fileID: 21300000, guid: aa95f564864b34b6695a48a8adb71f37, type: 3}
+  - {fileID: 21300000, guid: 84803546f839263478999a7821fe7314, type: 3}
+  - {fileID: 21300000, guid: eb88b3e609e464924bf5ec4332b9ab14, type: 3}
+  - {fileID: 21300000, guid: 2f5e6a47524aa994187d86af34ce29b3, type: 3}
+  - {fileID: 21300000, guid: abe5335777a804b0ba7bdde636e96528, type: 3}
+  - {fileID: 21300000, guid: 94b2c2380664c4404b5562ca336f60c8, type: 3}
+  - {fileID: 21300000, guid: 6ee98c49ef51a4c7d916e49ba3a01a52, type: 3}
+  - {fileID: 21300000, guid: d80defda9406d44018c36798b5bd4fb3, type: 3}
+  - {fileID: 21300000, guid: 27508f1bddc9e4537b0e9bfb03d82da8, type: 3}
+  - {fileID: 21300000, guid: b098fadbc0b2a4f909484f24fa38ca8f, type: 3}
+  - {fileID: 21300000, guid: 11680add8567343a088398f4e975dc95, type: 3}
+  - {fileID: 21300000, guid: 280ea88ebfae546c1b458db12a1029c5, type: 3}
+  - {fileID: 21300000, guid: ec874cbe3d0d14873a7defdd73668a93, type: 3}
+  - {fileID: 21300000, guid: e430e5bf3ee439941b9409a684ecc7b1, type: 3}
+  - {fileID: 21300000, guid: 2b253ddf98f974ffb95a979601c6d148, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - strips_0000s_0000_BigManStand_001
+  - strips_0000s_0003_BigManStand_004
+  - strips_0003s_0002_BigManLose_003
+  - strips_0002s_0000_BigManCelebrate_001
+  - strips_0003s_0001_BigManLose_002
+  - BigManAttack_0002_Pon
+  - strips_0002s_0003_BigManCelebrate_004
+  - BigManAttack_0000_Jan
+  - strips_0000s_0002_BigManStand_003
+  - strips_0001s_0001_BigManAttack_002
+  - strips_0001s_0003_BigManAttack_004
+  - strips_0003s_0000_BigManLose_001
+  - strips_0003s_0003_BigManLose_004
+  - strips_0001s_0002_BigManAttack_003
+  - strips_0001s_0000_BigManAttack_001
+  - strips_0002s_0002_BigManCelebrate_003
+  - strips_0002s_0001_BigManCelebrate_002
+  - BigManAttack_0001_Ken
+  - strips_0000s_0001_BigManStand_002
+  m_RenderDataMap: {}
+  m_Tag: AdultMan
+  m_IsVariant: 0

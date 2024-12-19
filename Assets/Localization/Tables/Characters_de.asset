@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Characters_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 272ec3c66e3df6d4a9431d7b652dc151, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 18446753792
+    m_Localized: DJ verschiedener Rollerdisco und Jugendmeister vom Turm "Janken".
+      Er hat Jahre ohne zu spielen verbracht, aber sein Talent ist nicht verloren
+      gegangen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80874774528
+    m_Localized: "Erfahrener Koch f\xFCr schnelle und k\xF6stliche Mahlzeiten. Nach
+      jedem Duell teilt sie einige ihrer ber\xFChmten Desserts mit ihrem Gegner,
+      um ihre Stimmung zu heben."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232016519168
+    m_Localized: Sein richtiger Name ist Benito. Er begann mit dem Training in seiner
+      Heimatstadt "Peor es Nada" im Alter von 5 Jahren, als er Bruce Lee-Filme sah.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 241181073408
+    m_Localized: "Niemand wei\xDF, wie er zum Turm gekommen ist oder was sein wahres
+      Gesicht ist, aber er hat sich eine Stelle im Turm verdient. Einige glauben,
+      dass er ein D\xE4mon ist."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342549012480
+    m_Localized: "Sie wurde mit einem nat\xFCrlichen Talent geboren, Stein, Papier
+      oder Schere zu spielen. Sie ist eines der Versprechen ihres Landes, also wird
+      sie alles tun, um die Beste der Welt zu sein."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 356562182144
+    m_Localized: Gymnasiast, der Anime liebt. Ihr Vater war ein Fan von "Janken Man"
+      und gab diesen Fanatismus an seine Tochter weiter.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 415743811584
+    m_Localized: "Er war die meiste Zeit seines Lebens M\xF6nch. Heute lebt er ein
+      ruhiges Leben, g\xE4rtnert und lehrt seine geheimen Techniken in seiner Stein-Papier-Schere-Schule."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 417723523072
+    m_Localized: "Wenn sie nicht in ihrem Gem\xFCseladen arbeitet, h\xE4ngt sie mit
+      ihren Freunden ab, um Kinderspiele zu spielen. Das \"cachipun\" und das \"pepito
+      paga doble\" sind ihre Lieblingsspiele."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 501781569536
+    m_Localized: Er hat seit seiner Kindheit eine Ausbildung zum Turmschiedsrichter
+      gemacht. Er denkt, isst und lebt Stein, Papier oder Schere. Alle Schiedsrichter
+      werden operiert, um gleich auszusehen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 515425640448
+    m_Localized: "Online-Pokerspieler. Er ist nicht sehr gut, aber er bekommt immer
+      das Geld zur\xFCck, das er verliert. Jetzt sucht er nach neuen M\xF6glichkeiten
+      in verschiedenen Spielen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 520723046400
+    m_Localized: "Sie hat eine absolute Vorliebe f\xFCr Motorr\xE4der und Geschwindigkeit.
+      Sie hat ihr Land auf der Suche nach Herausforderungen bereist, um ihren Adrenalinbedarf
+      zu stillen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 297208586240
+    m_Localized: "Unruhestifter, er kam zum Turm, weil ihn jemand herausforderte
+      und ihn H\xFChnchen nannte. Er vermeidet es, \xFCber seine Vergangenheit und
+      das Warum seines mechanischen Arms zu sprechen ... er muss etwas mit der H\xFChnersache
+      zu tun haben."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45680266991312896
+    m_Localized: "Freunde, seit sie in einer Gasse ausgesetzt wurden. Gastons List
+      und Miauffins St\xE4rke haben sie zu vielen Abenteuern gef\xFChrt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45682151685038080
+    m_Localized: Instagram
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45682087252140032
+    m_Localized: "Auf Steam verf\xFCgbar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45682083800227840
+    m_Localized: Wer?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46353671109419008
+    m_Localized: Basis Charaktere
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147985382129213440
+    m_Localized: ????????????????????????????????????????????????????????
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

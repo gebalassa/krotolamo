@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Menu
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a4414d86aba2d4c519f72bf5dffe0a56, type: 3}
+    - {fileID: 102900000, guid: aaf04f928205fbe4aaecfbcbb107b3ed, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 605c5f80b079fbf468ec526b0dfe0dc5, type: 3}
+  - {fileID: 21300000, guid: 56314ec00b51eb04385b88d96f9f49e2, type: 3}
+  - {fileID: 21300000, guid: a6ea5ef0d8266254c987501b661a662f, type: 3}
+  - {fileID: 21300000, guid: 89aa5d72e29e87543b337719e29e6ea4, type: 3}
+  - {fileID: 21300000, guid: 2e695df48900c0144afe867667c0ba9d, type: 3}
+  - {fileID: 21300000, guid: d758f258bf2f02c48a61be9716bfb25e, type: 3}
+  - {fileID: 21300000, guid: 805124b94dd04dd4ea83fec59a642807, type: 3}
+  - {fileID: 21300000, guid: f0c3311a453ac5345a15a63081a38b6a, type: 3}
+  - {fileID: 21300000, guid: 2a68b02cddaca4b49b45acfe156d49cd, type: 3}
+  - {fileID: 21300000, guid: 0f2a17edf7e95f0439e93a626826a82c, type: 3}
+  - {fileID: 21300000, guid: 70f4363e8c15f09488942e0237e459e5, type: 3}
+  - {fileID: 21300000, guid: 55e4f2cea5903d94cb7533c68b9193b1, type: 3}
+  - {fileID: 21300000, guid: 909545ff52a2122449f38d097ff14fce, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - online
+  - deluxe
+  - settings
+  - achievement
+  - mo
+  - leaderboard
+  - shop
+  - full
+  - to
+  - japanese
+  - la
+  - single
+  - kro
+  m_RenderDataMap: {}
+  m_Tag: Menu
+  m_IsVariant: 0

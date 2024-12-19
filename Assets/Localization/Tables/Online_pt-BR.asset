@@ -1,0 +1,181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Online_pt-BR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: af7a3effd14296c4fa2b7f8f18c0da77, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 8007131136
+    m_Localized: Seu nome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36415152128
+    m_Localized: "P\xFAblico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53142036480
+    m_Localized: Privado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69491433472
+    m_Localized: Conectando
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89187885056
+    m_Localized: Esperando por um oponente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 464980746240
+    m_Localized: '{Players} jogadores online'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 1600622108672
+    m_Localized: Knockouts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2911509880832
+    m_Localized: "Anfitri\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2979281444864
+    m_Localized: "C\xF3digo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3167458893824
+    m_Localized: Entrar no jogo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3271301472256
+    m_Localized: Esperando por jogadores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4940152119296
+    m_Localized: Jogadores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4846220681216
+    m_Localized: "O torneio vai come\xE7ar em breve"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5204753981440
+    m_Localized: Quartas de final
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5314967707648
+    m_Localized: Semifinais
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5656954478592
+    m_Localized: Final
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5698541002752
+    m_Localized: "O campe\xE3o \xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123999191506944
+    m_Localized: "C\xF3digo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1891500321611776
+    m_Localized: "Classifica\xE7\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97549797236736
+    m_Localized: "A sala est\xE1 cheia"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97724561301504
+    m_Localized: "C\xF3digo inv\xE1lido"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1854987902853120
+    m_Localized: Massacre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1891218502131712
+    m_Localized: Tem certeza que quer sair?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1893857763729408
+    m_Localized: Tipo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1893907088744448
+    m_Localized: Torneio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1894183564681216
+    m_Localized: Voltas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1897704942936064
+    m_Localized: "N\xE3o foi poss\xEDvel estabelecer a conex\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6609640041422848
+    m_Localized: Sim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6609642130186240
+    m_Localized: "N\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38854845448527872
+    m_Localized: "Estamos trabalhando em um modo online competitivo. Para participar
+      do futuro beta, convidamos voc\xEA a se juntar ao nosso Discord."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40030680616476672
+    m_Localized: "Combina\xE7\xE3o segura incorreta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84863360902045696
+    m_Localized: Visibilidade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86704934292234240
+    m_Localized: Vidas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100488893614465024
+    m_Localized: Tempo / Duelo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101152550589505536
+    m_Localized: O servidor foi reiniciado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 102654176756178944
+    m_Localized: finta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127626844462850048
+    m_Localized: Tempo / Rodada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127628424318754816
+    m_Localized: Pontos
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 002003436c000000

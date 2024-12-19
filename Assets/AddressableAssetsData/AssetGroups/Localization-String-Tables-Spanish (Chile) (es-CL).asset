@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Spanish (Chile) (es-CL)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Spanish (Chile) (es-CL)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e5b47e38c06f35546a0763261ed13d18
+  m_SerializeEntries:
+  - m_GUID: 6c154de1285678e45a38a9e4d7a69fbe
+    m_Address: InGame_es-CL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-CL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9556f2b95429a74448b86b91f30da8ec
+    m_Address: Credits_es-CL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-CL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59992882d25e05641943449453f3cd19
+    m_Address: DeluxeCharacters_es-CL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-CL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 407518b18096f1a4eb832399a5763fbb
+    m_Address: Online_es-CL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-CL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9db0d3f58a1ee284b90015711d92c054
+    m_Address: JanKenShop_es-CL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-CL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 591b82ecef6f87c488f85b227eb94986
+    m_Address: Achievements_es-CL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-CL
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33bf91116bf01844ba1f5201aad082bc
+    m_Address: Options_es-CL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-CL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b252c59a3a658764c8c726d28f38d346
+    m_Address: Characters_es-CL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-CL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c587924dc1e3f34585db4ab41d2a011
+    m_Address: Deluxe_es-CL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-CL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 720be5f65c9db2748a6dcb3096a8d23e
+    m_Address: Tutorial_es-CL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-CL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 963f143ca5f13974680c0fa578be0864
+    m_Address: Country_es-CL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-CL
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8c66c97c3ae6de409f1d5214feabdee
+    m_Address: Joystick_es-CL
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-es-CL
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: fff6f1cf6472d7840b70a42aa253de08, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6d274c9743306684f894978916eab6df, type: 2}
+    - {fileID: 11400000, guid: 68eb8bcdc5b43c9429922999ca694354, type: 2}

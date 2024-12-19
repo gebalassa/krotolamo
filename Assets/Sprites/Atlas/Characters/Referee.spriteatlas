@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Referee
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: fbeaede6b5df2a44db4202bf92b2f379, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8482f0a0225356345b21a1e2ea0bdb17, type: 3}
+  - {fileID: 21300000, guid: fd7a24c01aeb6e14ba1f49d9294f8ac9, type: 3}
+  - {fileID: 21300000, guid: 3a18e0f0d9b388040b3c62ceccfb740a, type: 3}
+  - {fileID: 21300000, guid: 40511d046026ed144aa1470cf0742afd, type: 3}
+  - {fileID: 21300000, guid: 86ab573573a923c4694d51ac82df861c, type: 3}
+  - {fileID: 21300000, guid: b4659c453f440464c984fbcb0c021f92, type: 3}
+  - {fileID: 21300000, guid: 673f8b85cd0571f4fa14588df9b36f14, type: 3}
+  - {fileID: 21300000, guid: 516d067699dc56345af6496d3f81066a, type: 3}
+  - {fileID: 21300000, guid: a21e18273a871ae45bc27a91e5692926, type: 3}
+  - {fileID: 21300000, guid: bc5241f71fc718b409ec8cfabdab0a27, type: 3}
+  - {fileID: 21300000, guid: 1b337e48d83015a409f9b38fe75a3f81, type: 3}
+  - {fileID: 21300000, guid: 99c66af823f95414b9367373218f8fb9, type: 3}
+  - {fileID: 21300000, guid: 468a20d939e90e14aa4acdd362a79688, type: 3}
+  - {fileID: 21300000, guid: 75e2deba4c24d8445948910ce40302e0, type: 3}
+  - {fileID: 21300000, guid: e73e0a7cc43669043a582812bf9a4ae3, type: 3}
+  - {fileID: 21300000, guid: e63ae9acd7b79144fbf0edcd75bbe5f3, type: 3}
+  - {fileID: 21300000, guid: f256cfec2961b9b49a67b06560d6ba53, type: 3}
+  - {fileID: 21300000, guid: 69994b6df1117774283b0e7312b705a1, type: 3}
+  - {fileID: 21300000, guid: 03879a8dd13a3454681290e55d59869e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - PlayerReferee_001_0001s_0003_PlayerRefereeCelebrate_001
+  - PlayerRefereeAttack_0002_Pon
+  - PlayerReferee_001_0003s_0000_PlayerRefereeStand_004
+  - PlayerReferee_001_0003s_0001_PlayerRefereeStand_003
+  - PlayerReferee_001_0000s_0000_PlayerRefereeLose_004
+  - PlayerReferee_001_0002s_0003_PlayerRefereeAttack_001
+  - PlayerReferee_001_0001s_0001_PlayerRefereeCelebrate_003
+  - PlayerReferee_001_0003s_0003_Layer-1
+  - PlayerRefereeAttack_0001_Ken
+  - PlayerReferee_001_0002s_0000_PlayerRefereeAttack_004
+  - PlayerReferee_001_0002s_0001_PlayerRefereeAttack_003
+  - PlayerReferee_001_0000s_0001_PlayerRefereeLose_003
+  - PlayerReferee_001_0003s_0002_PlayerRefereeStand_002
+  - PlayerReferee_001_0001s_0000_PlayerRefereeCelebrate_004
+  - PlayerReferee_001_0000s_0002_PlayerRefereeLose_002
+  - PlayerRefereeAttack_0000_Jan
+  - PlayerReferee_001_0000s_0003_PlayerRefereeLose_001
+  - PlayerReferee_001_0001s_0002_PlayerRefereeCelebrate_002
+  - PlayerReferee_001_0002s_0002_PlayerRefereeAttack_002
+  m_RenderDataMap: {}
+  m_Tag: Referee
+  m_IsVariant: 0

@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Online Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Online
+  m_TableCollectionNameGuidString: af7a3effd14296c4fa2b7f8f18c0da77
+  m_Entries:
+  - m_Id: 8007131136
+    m_Key: Your name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36415152128
+    m_Key: Public
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53142036480
+    m_Key: Private
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69491433472
+    m_Key: Connecting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 89187885056
+    m_Key: Matching
+    m_Metadata:
+      m_Items: []
+  - m_Id: 464980746240
+    m_Key: Players online
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1600622108672
+    m_Key: Knockouts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2911509880832
+    m_Key: Host Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2979281444864
+    m_Key: Code
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3167458893824
+    m_Key: Join Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3271301472256
+    m_Key: Wating for players
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4846220681216
+    m_Key: The tournament will start soon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4940152119296
+    m_Key: Players
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5204753981440
+    m_Key: Quarterfinals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5314967707648
+    m_Key: Semifinals
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5656954478592
+    m_Key: Final
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5698541002752
+    m_Key: The champion is
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97549797236736
+    m_Key: Room is full
+    m_Metadata:
+      m_Items: []
+  - m_Id: 97724561301504
+    m_Key: Invalid code
+    m_Metadata:
+      m_Items: []
+  - m_Id: 123999191506944
+    m_Key: CodeLabel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1854987902853120
+    m_Key: Deathmatch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1891218502131712
+    m_Key: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1891500321611776
+    m_Key: Ranking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1893857763729408
+    m_Key: Type
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1893907088744448
+    m_Key: Tournament
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1894183564681216
+    m_Key: Turns
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1897704942936064
+    m_Key: Connection could not be established
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6609640041422848
+    m_Key: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6609642130186240
+    m_Key: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38854845448527872
+    m_Key: public_mode_restructured
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40030680616476672
+    m_Key: Invalid password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 84863360902045696
+    m_Key: visibility
+    m_Metadata:
+      m_Items: []
+  - m_Id: 86704934292234240
+    m_Key: Lives
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100488893614465024
+    m_Key: TimeDuel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 101152550589505536
+    m_Key: serverRestart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 102654176756178944
+    m_Key: feint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127626844462850048
+    m_Key: TimeRound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 127628424318754816
+    m_Key: Points
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1614616061899

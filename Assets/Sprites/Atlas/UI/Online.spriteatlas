@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Online
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ee4381549b5834dec9fc898e9f873f7b, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c7de04a08cf8d494aa8fa28b28ec29ff, type: 3}
+  - {fileID: 21300000, guid: 34bf6a3129370a74fa31a6f12d623796, type: 3}
+  - {fileID: 21300000, guid: a5e04342bcdafe34dbd9339ccd5083f0, type: 3}
+  - {fileID: 21300000, guid: 6393a3a2611dd1c4c874595eead5bd54, type: 3}
+  - {fileID: 21300000, guid: 108ffba2b8a3b1446a64a8882fb900cc, type: 3}
+  - {fileID: 21300000, guid: ca0962b39b32fc144b1b5a3ea7eb3272, type: 3}
+  - {fileID: 21300000, guid: a3c40e144528ed14d9a503123894a085, type: 3}
+  - {fileID: 21300000, guid: 49512a643f8d5ec4aa4f2b44db661717, type: 3}
+  - {fileID: 21300000, guid: 58cc5094a10b7cb43964171700066db0, type: 3}
+  - {fileID: 21300000, guid: f3ceb7941c0511b4b97aa82a1c46cd27, type: 3}
+  - {fileID: 21300000, guid: 4b1884a4ca80cb6419a8b9ff61b3ebcc, type: 3}
+  - {fileID: 21300000, guid: 37ea2da5b6f488a4482095b9859043a3, type: 3}
+  - {fileID: 21300000, guid: 539ba7f53703f5149b58a2340ae2ce01, type: 3}
+  - {fileID: 21300000, guid: 7775d9f6397e07f4bb73fae11efaccb8, type: 3}
+  - {fileID: 21300000, guid: c207e827b9e72ca489374d40f4c0430b, type: 3}
+  - {fileID: 21300000, guid: a7246967b21b13e4fac4813688cbb970, type: 3}
+  - {fileID: 21300000, guid: adcff77715afb8249902697d7aced8af, type: 3}
+  - {fileID: 21300000, guid: 244bd2386a0a13a49b7f90daff49621b, type: 3}
+  - {fileID: 21300000, guid: 1df64ea81110dda428700c121f2505e3, type: 3}
+  - {fileID: 21300000, guid: 6945eb29deb8b2e4d895e2b2b826f59e, type: 3}
+  - {fileID: 21300000, guid: b7f5ba4994efc9f408701070cf01171c, type: 3}
+  - {fileID: 21300000, guid: 0b9aaa893f7ba5f40bcb59c1f2e151c0, type: 3}
+  - {fileID: 21300000, guid: 80c4bd6a38974c0419cf79077535c219, type: 3}
+  - {fileID: 21300000, guid: 7591578aef3606a43a12b9fadf000470, type: 3}
+  - {fileID: 21300000, guid: f78cc00c14aa9e64894e9a6fbf2d42f9, type: 3}
+  - {fileID: 21300000, guid: de0e769c15262c847bc080ce5a452096, type: 3}
+  - {fileID: 21300000, guid: b93f8cdccebc1ca46a1cff477d5dd47a, type: 3}
+  - {fileID: 21300000, guid: 4fb4532d8e8658f47871419bba1e0567, type: 3}
+  - {fileID: 21300000, guid: 0cc8ffcd9cc23462eaceebe47c1f226f, type: 3}
+  - {fileID: 21300000, guid: 61da15cef44b89e46921f5346dcfaaab, type: 3}
+  - {fileID: 21300000, guid: 5b77f73f3095e754ba4613b7edf73b97, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - code
+  - arrow-scroll-small-left
+  - icon-plus
+  - call-red
+  - clip
+  - tennisball
+  - call-green
+  - label
+  - separador
+  - corncob
+  - _0007_poker
+  - arrow-scroll-small-right
+  - _0005_nani
+  - host_avatar
+  - _0001_nerd
+  - _0003_angry
+  - _0006_yay
+  - _0000_sad
+  - beachball
+  - discord
+  - public
+  - host
+  - _0002_kiss
+  - microphone
+  - football
+  - clip-border
+  - config
+  - button-minus
+  - private
+  - _0004_xd
+  - share
+  m_RenderDataMap: {}
+  m_Tag: Online
+  m_IsVariant: 0

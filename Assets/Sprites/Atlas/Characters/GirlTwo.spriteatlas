@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GirlTwo
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 408362cc645414404acd13bca052460a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1d5102d053f6c824eb04335c8ede814e, type: 3}
+  - {fileID: 21300000, guid: 411f3421c2ab845848e4b491864fb046, type: 3}
+  - {fileID: 21300000, guid: ec7ff63175f414da4b411e91aae6e9f2, type: 3}
+  - {fileID: 21300000, guid: ba42abc110cfe4c73a1fd0b88c9b74d1, type: 3}
+  - {fileID: 21300000, guid: c119d2341a2b5476da412fd68f920c63, type: 3}
+  - {fileID: 21300000, guid: 9a238dc4afa024c08a957b7806eb2786, type: 3}
+  - {fileID: 21300000, guid: 7c5e5a65e76757443bbfa344aa390a37, type: 3}
+  - {fileID: 21300000, guid: 60bc495652fd343a4b5b71bdffab495d, type: 3}
+  - {fileID: 21300000, guid: 0ac5bb56dc27040229aa9df1e5ac4545, type: 3}
+  - {fileID: 21300000, guid: 54409e767e667554488a67f726b05baf, type: 3}
+  - {fileID: 21300000, guid: c49654f71a18b49f79d75ee0aee33217, type: 3}
+  - {fileID: 21300000, guid: c224fd68d3d8943c78a64c66eb0328c0, type: 3}
+  - {fileID: 21300000, guid: c46afc98f6e434a09a1743bdf4b6cf93, type: 3}
+  - {fileID: 21300000, guid: 1e68bea9d380d48ccb35887a8a58b2dc, type: 3}
+  - {fileID: 21300000, guid: 0b78aee9d14a6493ea795075fc71e6b0, type: 3}
+  - {fileID: 21300000, guid: da00065a533374467b5e8be9374a2393, type: 3}
+  - {fileID: 21300000, guid: db118b3b64268479eb2c55b8ff731448, type: 3}
+  - {fileID: 21300000, guid: ba25075bd84834cdfa7b1a9e3abed813, type: 3}
+  - {fileID: 21300000, guid: 95de92bcb86c44e7086742951219b4d5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - SchoolgirlAttack_0001_Ken
+  - strip_0001s_0003_SchoolgirlAttack_004
+  - strip_0002s_0001_SchoolgirlCelebrate_002
+  - strip_0000s_0000_SchoolgirlStand_001
+  - strip_0003s_0000_SchoolgirlLose_001
+  - strip_0000s_0003_SchoolgirlStand_004
+  - SchoolgirlAttack_0002_Pon
+  - strip_0001s_0002_SchoolgirlAttack_003
+  - strip_0003s_0001_SchoolgirlLose_002
+  - SchoolgirlAttack_0000_Jan
+  - strip_0000s_0002_SchoolgirlStand_003
+  - strip_0003s_0003_SchoolgirlLose_004
+  - strip_0002s_0000_SchoolgirlCelebrate_001
+  - strip_0003s_0002_SchoolgirlLose_003
+  - strip_0001s_0001_SchoolgirlAttack_002
+  - strip_0002s_0003_SchoolgirlCelebrate_004
+  - strip_0000s_0001_SchoolgirlStand_002
+  - strip_0002s_0002_SchoolgirlCelebrate_003
+  - strip_0001s_0000_SchoolgirlAttack_001
+  m_RenderDataMap: {}
+  m_Tag: GirlTwo
+  m_IsVariant: 0

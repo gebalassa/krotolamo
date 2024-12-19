@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: YoungMan
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Standalone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 0edd0afe3fedf432695807df43aa2e53, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c101c7e1496b84c44a6347a74c626e51, type: 3}
+  - {fileID: 21300000, guid: 92c707a2906ba45ab891e816d5e687f1, type: 3}
+  - {fileID: 21300000, guid: 07172cc297a1c4fec90c8f945fa5b7ce, type: 3}
+  - {fileID: 21300000, guid: ce2c25839cfff41e993ca1dbd63b8583, type: 3}
+  - {fileID: 21300000, guid: d3b233e37c0f4412daf97545b02781b1, type: 3}
+  - {fileID: 21300000, guid: a20d42f31001945e886e1e36a06a2420, type: 3}
+  - {fileID: 21300000, guid: 13a548f4c72fd4f5f991ef640b336463, type: 3}
+  - {fileID: 21300000, guid: 7adc7285a59ff42bfa45851b84d45731, type: 3}
+  - {fileID: 21300000, guid: c95c73669452cb141b0ce07f1c6569bf, type: 3}
+  - {fileID: 21300000, guid: e98c65f8fde414feeb485af7d591428e, type: 3}
+  - {fileID: 21300000, guid: 62d24059c5de249c69373c5b9715a429, type: 3}
+  - {fileID: 21300000, guid: 189fc21aee42c433bab13ee8a1caab71, type: 3}
+  - {fileID: 21300000, guid: 6a44c62a321d14177b0429429ebeb8f0, type: 3}
+  - {fileID: 21300000, guid: f093e41bc63e5fc4fb14d2c984667976, type: 3}
+  - {fileID: 21300000, guid: a1869d6b57057470eb857d2d626c5ab9, type: 3}
+  - {fileID: 21300000, guid: d975810d6f3ef984abefc73358eafb3e, type: 3}
+  - {fileID: 21300000, guid: 5297b47d78b0b4468abf7089ebec40a5, type: 3}
+  - {fileID: 21300000, guid: 0f27073e8480d40d29f5ff5bfc3536ae, type: 3}
+  - {fileID: 21300000, guid: ba1c419fb4701465582e93133748ab6c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - strips_0003s_0001_ManLose_002
+  - strips_0002s_0002_ManCelebrate_003
+  - strips_0000s_0003_ManStand_004
+  - strips_0002s_0001_ManCelebrate_002
+  - strips_0000s_0000_ManStand_001
+  - strips_0000s_0001_ManStand_002
+  - strips_0001s_0002_ManAttack_003
+  - strips_0003s_0003_ManLose_004
+  - ManAttack_0002_Pon
+  - strips_0001s_0000_ManAttack_001
+  - strips_0002s_0000_ManCelebrate_001
+  - strips_0002s_0003_ManCelebrate_004
+  - strips_0000s_0002_ManStand_003
+  - ManAttack_0000_Jan
+  - strips_0003s_0000_ManLose_001
+  - ManAttack_0001_Ken
+  - strips_0001s_0001_ManAttack_002
+  - strips_0003s_0002_ManLose_003
+  - strips_0001s_0003_ManAttack_004
+  m_RenderDataMap: {}
+  m_Tag: YoungMan
+  m_IsVariant: 0

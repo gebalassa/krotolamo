@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Tutorial_zh
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: zh
+  m_SharedData: {fileID: 11400000, guid: 905f7e36ac39cc147b646afce1aae7a4, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20925587456
+    m_Localized: "\u7EB8\u8986\u76D6\u5CA9\u77F3..."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2111614164992
+    m_Localized: "\u9009\u62E9\u51FB\u8D25\u5BF9\u624B\u7684\u653B\u51FB"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2167947862016
+    m_Localized: "\u6700\u597D\u7684\u4E09\u4E2A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2688570040320
+    m_Localized: "\u9009\u62E9\u4E09\u4E2A\u8FDE\u7EED\u653B\u51FB"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3060302815232
+    m_Localized: "\u5728\u5B83\u6539\u53D8\u4E4B\u524D\u653B\u51FB"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3677498843136
+    m_Localized: "\u6CE8\u610F\u5BF9\u624B\u7684\u52A0\u8F7D\u6761\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3832419655680
+    m_Localized: "\u70B9\u51FB\u5BF9\u624B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3959758725120
+    m_Localized: "\u4E86\u89E3\u653B\u51FB\u9700\u8981\u82B1\u8D39 6 \u4E2A\u786C\u5E01"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4393747554304
+    m_Localized: "\u76F8\u4FE1\u4F60\u7684\u5FC3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4570571022336
+    m_Localized: "\u5728\u65F6\u95F4\u7528\u5B8C\u4E4B\u524D\u9009\u62E9\u653B\u51FB"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1173651244392448
+    m_Localized: "\u8D85\u7EA7\u5927\u56FD\uFF01"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1173812616044544
+    m_Localized: "\u5982\u679C\u60A8\u62E5\u6709 3 \u6761\u751F\u547D\u5E76\u5B8C\u6210\u8FDE\u80DC\uFF08\u751F\u547D\u663E\u793A\u70B9\u4E0B\u65B9\u7684\u70B9\uFF09\uFF0C\u60A8\u5C06\u83B7\u5F97\u4E00\u4E2A\u8D85\u7EA7\u529B\u91CF\uFF01"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

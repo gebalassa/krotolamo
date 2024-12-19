@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Characters_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 272ec3c66e3df6d4a9431d7b652dc151, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 18446753792
+    m_Localized: "DJ de diff\xE9rentes Roller disco et jeune champion de la tour
+      \"Janken\". Il a pass\xE9 des ann\xE9es sans jouer mais son talent n'a pas
+      \xE9t\xE9 perdu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80874774528
+    m_Localized: "Chef expert dans la pr\xE9paration de repas rapides et d\xE9licieux.
+      Apr\xE8s chaque duel, elle partage certains de ses c\xE9l\xE8bres desserts
+      avec son adversaire pour lui remonter le moral."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232016519168
+    m_Localized: "Son vrai nom est Benito. Il a commenc\xE9 \xE0 s'entra\xEEner dans
+      sa ville natale \"Peor es Nada\" \xE0 l'\xE2ge de 5 ans en regardant des films
+      de Bruce Lee."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 241181073408
+    m_Localized: "Personne ne sait comment il est arriv\xE9 \xE0 la tour ou quel
+      est son vrai visage, mais il a gagn\xE9 un poste \xE0 l'int\xE9rieur de la
+      tour. Certains croient qu'il est un d\xE9mon."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342549012480
+    m_Localized: "Elle est n\xE9e avec un talent naturel pour jouer de la pierre,
+      du papier ou des ciseaux. Elle est l'une des promesses de son pays, elle fera
+      donc tout son possible pour \xEAtre la meilleure au monde."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 356562182144
+    m_Localized: "Lyc\xE9en passionn\xE9 d'anime. Son p\xE8re \xE9tait un fan de
+      \"Janken Man\" et a transmis ce fanatisme \xE0 sa fille."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 415743811584
+    m_Localized: "Il a \xE9t\xE9 moine pendant la plus grande partie de sa vie. Aujourd'hui,
+      il m\xE8ne une vie tranquille en jardinant et en enseignant ses techniques
+      secr\xE8tes dans son \xE9cole de pierre-papier-ciseaux."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 417723523072
+    m_Localized: "Lorsqu'elle ne travaille pas dans son magasin de l\xE9gumes, elle
+      sort avec ses amis pour jouer \xE0 des jeux d'enfance. Le \"cachipun\" et le
+      \"pepito paga doble\" sont ses jeux pr\xE9f\xE9r\xE9s."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 501781569536
+    m_Localized: "Il s'est entra\xEEn\xE9 depuis son enfance pour devenir arbitre
+      de tour. Il pense, mange et vit de la pierre, du papier ou des ciseaux. Tous
+      les arbitres sont op\xE9r\xE9s pour se ressembler."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 515425640448
+    m_Localized: "Joueur de poker en ligne. Il n'est pas tr\xE8s bon, mais il r\xE9cup\xE8re
+      toujours l'argent qu'il perd. Maintenant, il recherche de nouvelles opportunit\xE9s
+      dans diff\xE9rents jeux."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 520723046400
+    m_Localized: "Elle a un amour absolu pour les motos et la vitesse. Elle a parcouru
+      son pays \xE0 la recherche de d\xE9fis pour satisfaire son besoin d'adr\xE9naline."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 297208586240
+    m_Localized: "Faiseur de troubles, il est venu \xE0 la tour parce que quelqu'un
+      l'a d\xE9fi\xE9 et l'a appel\xE9 poulet. Il \xE9vite de parler de son pass\xE9
+      et du pourquoi de son bras m\xE9canique... il doit avoir quelque chose \xE0
+      voir avec le truc du poulet."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45680266991312896
+    m_Localized: "Amis depuis qu'ils ont \xE9t\xE9 abandonn\xE9s dans une ruelle.
+      La ruse de Gaston et la force de Miauffin les ont men\xE9s dans de nombreuses
+      aventures."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45682151685038080
+    m_Localized: Instagram
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45682087252140032
+    m_Localized: Disponible sur Steam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45682083800227840
+    m_Localized: Qui?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46353671109419008
+    m_Localized: Personnages de base
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147985382129213440
+    m_Localized: ????????????????????????????????????????????????????????
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

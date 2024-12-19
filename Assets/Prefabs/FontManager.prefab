@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4170306761699977883
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4170306761699977861}
+  - component: {fileID: 4170306761699977860}
+  m_Layer: 0
+  m_Name: FontManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4170306761699977861
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4170306761699977883}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4170306761699977860
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4170306761699977883}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c98f5f350454ff542acba743f5778a7f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MainFont: {fileID: 11400000, guid: bb2e2235f2039454085efe077a35b8f4, type: 2}
+  MainJapaseneFont: {fileID: 11400000, guid: da20214e259f5a042b8d4903ecad13cd, type: 2}
+  MainKoreanFont: {fileID: 11400000, guid: e4f3d3279dac0c149bbd11f3b42f43bd, type: 2}
+  MainChineseFont: {fileID: 11400000, guid: 00fe3479f0539cc44a1a804fe0a2615f, type: 2}
+  MainRussianFont: {fileID: 11400000, guid: af556e075b56b50479055466237bb48d, type: 2}
+  MainArabicFont: {fileID: 11400000, guid: 2db4aa57584f1314f892d5caadf56770, type: 2}
+  MaterialMainFontBlack: {fileID: 3768821908872437177, guid: bb2e2235f2039454085efe077a35b8f4,
+    type: 2}
+  MaterialMainFontWhite: {fileID: 2100000, guid: f80ebef2a767293438a4a5d0dbf9fa52,
+    type: 2}
+  MaterialMainJapaseneFontBlack: {fileID: -1978320753000626562, guid: da20214e259f5a042b8d4903ecad13cd,
+    type: 2}
+  MaterialMainJapaseneFontWhite: {fileID: 2100000, guid: bc12477b8b422e7448e68eb584a51a55,
+    type: 2}
+  MaterialMainKoreanFontBlack: {fileID: -1989086761691322814, guid: e4f3d3279dac0c149bbd11f3b42f43bd,
+    type: 2}
+  MaterialMainKoreanFontWhite: {fileID: 2100000, guid: f391aa48e3855d844aebd3a534abfec4,
+    type: 2}
+  MaterialMainChineseFontBlack: {fileID: 4927446365882048876, guid: 00fe3479f0539cc44a1a804fe0a2615f,
+    type: 2}
+  MaterialMainChineseFontWhite: {fileID: 2100000, guid: 654ae8fbe2bfd05488f0447ff51accf9,
+    type: 2}
+  MaterialMainRussianFontBlack: {fileID: -6653471561958194438, guid: af556e075b56b50479055466237bb48d,
+    type: 2}
+  MaterialMainRussianFontWhite: {fileID: 2100000, guid: eae8c177b97ccdf4cafc9008a8872280,
+    type: 2}
+  MaterialMainArabicFontBlack: {fileID: -1754016085442156696, guid: 2db4aa57584f1314f892d5caadf56770,
+    type: 2}
+  MaterialMainArabicFontWhite: {fileID: 2100000, guid: 6049d5fb62d76ca408384d6754359997,
+    type: 2}
+  ScoreFont: {fileID: 11400000, guid: b107e90e46cf333429e2a69ce0db2aec, type: 2}
+  ScoreJapaseneFont: {fileID: 11400000, guid: b107e90e46cf333429e2a69ce0db2aec, type: 2}
+  ScoreKoreanFont: {fileID: 11400000, guid: e5cba29b593ef7643a0dcccf1da944b5, type: 2}
+  ScoreChineseFont: {fileID: 11400000, guid: a07e9f59345efb847931fde670ef1afe, type: 2}
+  ScoreRussianFont: {fileID: 11400000, guid: 13e200946b0799343a70e70e7c19548b, type: 2}
+  ScoreArabicFont: {fileID: 11400000, guid: 069b4599660576241828f5b2c36bbb9f, type: 2}
+  RefereeeFont: {fileID: 11400000, guid: 7784c563847489943a0d4636c8d16a09, type: 2}
+  RefereeJapaseneFont: {fileID: 11400000, guid: 7784c563847489943a0d4636c8d16a09,
+    type: 2}
+  RefereeKoreanFont: {fileID: 11400000, guid: 5263c45f70dfece41bba569882f68b36, type: 2}
+  RefereeChineseFont: {fileID: 11400000, guid: 7b6681044aa39734495d7a96f045a55f, type: 2}
+  RefereeRussianFont: {fileID: 11400000, guid: aa46d85d263832548acd9c384f82b330, type: 2}
+  RefereeArabicFont: {fileID: 11400000, guid: 20bc2686e10891c45931ddb03af8fae9, type: 2}
+  AnnouncementFont: {fileID: 11400000, guid: 06f8fd1471da5ce40bb14360947dcb32, type: 2}
+  AnnouncementJapaseneFont: {fileID: 11400000, guid: 06f8fd1471da5ce40bb14360947dcb32,
+    type: 2}
+  AnnouncementKoreanFont: {fileID: 11400000, guid: 2f8b2b264df82a1448381d49961d54dd,
+    type: 2}
+  AnnouncementChineseFont: {fileID: 11400000, guid: bd0d95b3594614943973cba69d06de11,
+    type: 2}
+  AnnouncementRussianFont: {fileID: 11400000, guid: f66be9f113e1aa144aa83c3338fa7cbb,
+    type: 2}
+  AnnouncementArabicFont: {fileID: 11400000, guid: 04208ac5d923dba4898ffece5b5192c9,
+    type: 2}
+  MainPlainFont: {fileID: 12800000, guid: 4087205f889989a45b0a1ccf5683e889, type: 3}
+  JapasenePlainFont: {fileID: 12800000, guid: 4087205f889989a45b0a1ccf5683e889, type: 3}
+  KoreanPlainFont: {fileID: 12800000, guid: 89e3ec86c11a8424f94d8522b9a1a4c4, type: 3}
+  ChinesePlainFont: {fileID: 12800000, guid: 477bc18caec4bc449b692ff8e7b20c85, type: 3}
+  RussianPlainFont: {fileID: 12800000, guid: b172641347f9b5148af018615a9d13e3, type: 3}
+  ArabicPlainFont: {fileID: 12800000, guid: 6eb96dfdf1452d84dbbd11c5fd1ba0fb, type: 3}

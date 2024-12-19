@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Characters_pt-BR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: 272ec3c66e3df6d4a9431d7b652dc151, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 18446753792
+    m_Localized: "DJ de diferente Roller Disco e campe\xE3o juvenil da torre \"Janken\".
+      Ele passou anos sem jogar, mas seu talento n\xE3o foi perdido."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 80874774528
+    m_Localized: "Chef especialista em preparar refei\xE7\xF5es r\xE1pidas e deliciosas.
+      Ap\xF3s cada duelo, ela compartilha algumas de suas famosas sobremesas com
+      seu oponente para levantar seu \xE2nimo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 232016519168
+    m_Localized: "Seu nome verdadeiro \xE9 Benito. Ele come\xE7ou a treinar em sua
+      cidade natal \"Peor es Nada\" aos 5 anos de idade, assistindo a filmes de Bruce
+      Lee."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 241181073408
+    m_Localized: "Ningu\xE9m sabe como ele chegou \xE0 torre ou qual \xE9 sua verdadeira
+      face, mas ele conquistou uma posi\xE7\xE3o dentro da torre. Alguns acreditam
+      que ele \xE9 um dem\xF4nio."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 342549012480
+    m_Localized: "Nasceu com um talento natural para jogar pedra, papel ou tesoura.
+      Ela \xE9 uma das promessas do seu pa\xEDs, por isso far\xE1 o seu melhor para
+      ser a melhor do mundo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 356562182144
+    m_Localized: "Estudante do ensino m\xE9dio que adora anime. Seu pai era f\xE3
+      de \"Janken Man\" e passou esse fanatismo para a filha."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 415743811584
+    m_Localized: "Ele foi um monge durante a maior parte de sua vida. Hoje ele vive
+      uma vida tranquila cuidando do jardim e ensinando suas t\xE9cnicas secretas
+      em sua escola de pedra-papel-tesoura."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 417723523072
+    m_Localized: "Quando ela n\xE3o est\xE1 trabalhando em sua loja de vegetais,
+      ela sai com seus amigos para jogar jogos de inf\xE2ncia. O \"cachipun\" e o
+      \"pepito paga doble\" s\xE3o seus jogos favoritos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 501781569536
+    m_Localized: "Ele treinou desde crian\xE7a para ser \xE1rbitro de torre. Ele
+      pensa, come e vive pedra, papel ou tesoura. Todos os \xE1rbitros s\xE3o operados
+      para terem a mesma apar\xEAncia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 515425640448
+    m_Localized: "Jogador de p\xF4quer online. Ele n\xE3o \xE9 muito bom, mas sempre
+      recebe de volta o dinheiro que perde. Agora ele est\xE1 em busca de novas oportunidades
+      em diferentes jogos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 520723046400
+    m_Localized: "Ela tem um amor absoluto por motocicletas e velocidade. Ela tem
+      viajado por seu pa\xEDs em busca de desafios para satisfazer sua necessidade
+      de adrenalina."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 297208586240
+    m_Localized: "Encrenqueiro, ele veio para a torre porque algu\xE9m o desafiou
+      e o chamou de galinha. Ele evita falar sobre seu passado e o motivo de seu
+      bra\xE7o mec\xE2nico ... deve ter algo a ver com a coisa de galinha."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45680266991312896
+    m_Localized: "Amigos desde que foram abandonados em um beco. A ast\xFAcia de
+      Gaston e a for\xE7a de Miauffin os levaram a muitas aventuras."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45682151685038080
+    m_Localized: Instagram
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45682087252140032
+    m_Localized: "Dispon\xEDvel no Steam"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45682083800227840
+    m_Localized: Quem?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46353671109419008
+    m_Localized: "Personagens b\xE1sicos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 147985382129213440
+    m_Localized: ????????????????????????????????????????????????????????
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

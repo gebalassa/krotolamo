@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: JanKenShop_ar
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ar
+  m_SharedData: {fileID: 11400000, guid: fa7911a0586c824419d113596a7e117c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 19243671552
+    m_Localized: "\u0623\u0633\u0627\u0637\u064A\u0631"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 121228173312
+    m_Localized: "\u0627\u0636\u0631\u0628 \u0628\u0642\u0648\u0629 \u060C Hara !"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3913978682220544
+    m_Localized: "\u0625\u0646\u0647 \u0644\u0643!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3971314830483456
+    m_Localized: "\u062E\u0630 \u0646\u0642\u0648\u062F\u064A!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4020060167544832
+    m_Localized: "\u062A\u0641\u0627\u0635\u064A\u0644"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4032592345243648
+    m_Localized: "5 \u0634\u062E\u0635\u064A\u0627\u062A \u062D\u0635\u0631\u064A\u0629."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4034914353881088
+    m_Localized: "\u062B\u0644\u0627\u062B \u0634\u062E\u0635\u064A\u0627\u062A \u0645\u0646
+      \u0633\u0644\u0633\u0644\u0629 \u0627\u0644\u0631\u0633\u0648\u0645 \u0627\u0644\u0645\u062A\u062D\u0631\u0643\u0629
+      \"\u0627\u0636\u0631\u0628 \u0628\u0642\u0648\u0629 \u060C Hara !\"."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20180758765445120
+    m_Localized: Pichanga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20181949389938688
+    m_Localized: "\u064A\u0634\u0645\u0644 \u0634\u062E\u0635\u064A\u0627\u062A \u0645\u0646
+      \u0627\u0644\u062B\u0642\u0627\u0641\u0629 \u0627\u0644\u062A\u0634\u064A\u0644\u064A\u0629."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108773613435559936
+    m_Localized: "\u0630\u0627 \u0628\u0631\u0627\u064A\u0627\u0646"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108773761666457600
+    m_Localized: "\u062A\u062A\u0636\u0645\u0646 \u0634\u062E\u0635\u064A\u0627\u062A
+      \u0645\u0646 Webtoon \"El Brayan\""
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

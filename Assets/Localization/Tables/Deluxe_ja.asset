@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Deluxe_ja
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ja
+  m_SharedData: {fileID: 11400000, guid: 14999b99c6868de46a567678f222150a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8376229888
+    m_Localized: Deluxe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17833006407680
+    m_Localized: "\u7D50\u69CB\u3067\u3059"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17610251116544
+    m_Localized: "\u79C1\u306E\u304A\u91D1\u3092\u53D6\u308B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13716838096896
+    m_Localized: "\u30AD\u30E3\u30E9\u30AF\u30BF\u30FC\u306E\u8272\u5909\u66F4\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13207251132416
+    m_Localized: "\u958B\u767A\u8005\u306F\u98DF\u3079\u308B\u3053\u3068\u304C\u3067\u304D\u308B\u3088\u3046\u306B\u306A\u308A\u307E\u3059\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4711063429120
+    m_Localized: "\u52DD\u3063\u305F\u3089\u30C0\u30D6\u30EB\u30B3\u30A4\u30F3\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4002645483520
+    m_Localized: "\u3042\u306A\u305F\u306F\u300CDeluxe\uFF01\u300D\u3092\u624B\u306B\u5165\u308C\u308B\u3067\u3057\u3087\u3046\u6210\u679C\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2472999591936
+    m_Localized: "\u30B2\u30FC\u30E0\u30BB\u30C3\u30B7\u30E7\u30F3\u306E\u958B\u59CB\u6642\u306B\u5E38\u306B
+      3 \u3064\u306E\u8D85\u5927\u56FD\u304C\u3042\u308A\u307E\u3059\u3002"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76126822400
+    m_Localized: Deluxe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140296900481064960
+    m_Localized: "\u3059\u3079\u3066\u306E\u57FA\u672C\u30AD\u30E3\u30E9\u30AF\u30BF\u30FC\u3002\r"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
