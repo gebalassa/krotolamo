@@ -1,11 +1,14 @@
 # ¿Qué es Krotolamo?
 Krotolamo es la versión open source de JanKenUP! de [@humitagames](https://humitagames.com). Puedes explorar el código, modificarlo, crear nuevos personajes. Si deseas distribuir tu versión, primero debes leer el contenido de los archivos de licencias. Más información al final de este documento.
 
+## Creacion de personajes
+Si quieres crear tu propio personaje, revisa la carpeta **Assets/CustomCharacters**, donde encontrarás un personaje custom creado como referencia. El **Prefab** principal de tu personaje debe ser un **Addressable** y su ruta debe ser añadida al campo **Custom Character Path** de **Assets/Prefab/InGame/CharacterPool**.
+
 ## Recursos Gráficos
 Dentro del repositorio existe una carpeta llamada **_graphic_assets_base** que contiene los pinceles para Photoshop/Clip Studio Paint necesarios para mantener el estilo gráfico del juego. Además, cuenta con la paleta de colores utilizada.
 
 ## Apoya a Humita Games
-Si te gusta este proyecto y quieres ayudar a financiar nuestros próximos proyectos, considera hacer una donación para apoyarnos.
+Si te gusta este proyecto y quieres ayudar a financiar nuestros próximos videojuegos, considera hacer una donación para apoyarnos.
 
 [![Donar con PayPal](https://img.shields.io/badge/Donar-PayPal-blue.svg)](https://paypal.me/humitagames)
 
