@@ -8,8 +8,11 @@ Si quieres crear tu propio personaje, revisa la carpeta **Assets/CustomCharacter
 Dentro del repositorio existe una carpeta llamada **_graphic_assets_base** que contiene los pinceles para Photoshop/Clip Studio Paint necesarios para mantener el estilo gráfico del juego. Además, cuenta con la paleta de colores utilizada.
 
 ## Apoya a Humita Games
-Si te gusta este proyecto y quieres ayudar a financiar nuestros próximos videojuegos, considera hacer una donación para apoyarnos.
+Si te gusta este proyecto y quieres ayudar a financiar nuestros próximos videojuegos, puedes comprar JanKenUP! en [Steam](https://store.steampowered.com/app/3205560/JanKenUP/), [Nintendo Switch](https://www.nintendo.com/us/store/products/jankenup-switch/), [PlayStation](https://store.playstation.com/en-us/product/UP6718-PPSA25438_00-0192945654501506) o [Xbox](https://www.xbox.com/es-CL/games/store/JanKenUP/9NMQK13LJR04).
 
+Si eres de Chile, también puedes comprar alguna mercancía desde [nuestra tienda](https://tienda.humitagames.com).
+
+También puedes considerar hacer una donación para apoyarnos.
 [![Donar con PayPal](https://img.shields.io/badge/Donar-PayPal-blue.svg)](https://paypal.me/humitagames)
 
 # Información de Licencias
