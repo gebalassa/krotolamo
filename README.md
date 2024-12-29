@@ -1,6 +1,9 @@
 # ¿Qué es Krotolamo?
 Krotolamo es la versión open source de JanKenUP! de [@humitagames](https://humitagames.com). Puedes explorar el código, modificarlo, crear nuevos personajes. Si deseas distribuir tu versión, primero debes leer el contenido de los archivos de licencias. Más información al final de este documento.
 
+## Unity
+Para modificar el juego o crear nuevos personajes, necesitas tener Unity 3D versión 2021.3.41f1. Es posible hacer uso de nuevas versiones del editor, pero deberás ajustar los errores que aparezcan.
+
 ## Creacion de personajes
 Si quieres crear tu propio personaje, revisa la carpeta **Assets/CustomCharacters**, donde encontrarás un personaje custom creado como referencia. El **Prefab** principal de tu personaje debe ser un **Addressable** y su ruta debe ser añadida al campo **Custom Character Path** de **Assets/Prefab/InGame/CharacterPool**.
 
