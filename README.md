@@ -1,3 +1,6 @@
+(Fork de Krotolamo para uso personal, abajo texto original)
+
+---
 # ¿Qué es Krotolamo?
 Krotolamo es la versión open source de JanKenUP! de [@humitagames](https://humitagames.com). Puedes explorar el código, modificarlo, crear nuevos personajes. Si deseas distribuir tu versión, primero debes leer el contenido de los archivos de licencias. Más información al final de este documento.
 
